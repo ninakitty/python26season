@@ -1,0 +1,192 @@
+一. 格式化输出
+    %s 字符串的占位
+    %d 数字的占位 digit
+    %f 浮点数
+
+    字符串 % (数据)
+
+
+    模板字符串(3.5)
+
+
+二. 运算符
+    算数运算
+        + - * / // %
+    比较运算
+        > < >=  <=  ==  !=
+    成员运算
+        in  是否在xxx里面
+        not in  是否不在xxx里面
+
+    逻辑运算(重点)
+        1. and   并且, 左右两端同时为真, 结果才能是真.
+        2. or     或者, 左右两端有一个是真, 结果就是真
+        3. not    非, 非真即假, 非假即真
+        运算顺序:  ()  > not > and > or
+
+            a or b
+            if a == 0:  b   else a
+            and和or相反
+
+    赋值扩展运算
+        =  赋值, 把等号右边的结果赋值给等号左边的变量
+        +=
+        -=
+        *=
+        /=
+        //=
+        %=
+
+        a+=b   =>  a = a + b
+
+三. 编码(记结论)
+    ascii: 英文+数字+标点+特殊字符  一共编码了128个. 最早的是7bit  => 8bit
+    计算机网络传输的时候单位是字节 1byte => 8bit
+    ascii第一位是0
+
+    ANSI: 一个标准
+    GBK: 国标码的扩展码  16bit 2byte  65536个 主要是放中文  一定兼容ascii, 现在大家的windows默认就是GBK
+
+    ISO+Unicode=> unicode 万国码  32bit  -> 一个面 16bit 65536个文字.
+    ascii: a      10101010
+    unicode: a   10101010
+
+    utf:可变长度的unicode, 弥补了浪费的空间.
+    utf-8:
+        英文: 8bit  1byte
+        欧洲: 16bit 2byte
+        中文: 24bit 3byte
+
+    python中默认使用的字符串就是unicode
+    进行网络传输和文件存储必须要转化成utf-8或者gbk
+
+    如何把字符串转化成utf-8
+
+    encode(编码)  => 使用编码格式对文字进行编码
+    decode(解码)  => 把bytes变回字符串
+
+    8bit  -> 1Byte
+    1024B -> 1KB
+    1024KB -> 1MB
+    1024MB -> 1GB
+    1024GB -> 1TB
+
+
+
+
+四. int
+    bit_length() 是int唯一的一个动作.
+
+
+五. bool -> 数据类型之间的转化(记结论)
+    int(字符串) =>  把字符串转化成数字
+    str(数字)   =>  把数字转化成字符串
+
+    结论1: 想要把x变成y   y(x)
+    结论2: 所有的空都表示False, 所有的非空都表示True
+
+六. str(重点,  记住, 课上总结的内容)
+    字符串的索引
+    程序员数数从0开始
+
+    字符串[索引]
+    切片:
+        字符串[start:end] 从start到end拿到数据. end取不到
+        字符串[start:end:step] 从start到end拿数据. 每step个拿出来一个.
+            step:
+                + 左到右
+                - 右到左
+
+    常用操作
+        字符串是一个不可变的数据类型
+        1. upper()  转化成大写. 在忽略大小写的时候.
+        2. strip()  默认去掉左右两端的空白
+        3. replace()  字符串的替换
+        4. split()  字符串切割, 结果是列表
+        5. startswith() 判断是否以xxx开头
+        6. find()  查找字符串中xxx字符的位置. 如果找不到返回-1
+        7. len() 字符串长度
+
+
+七. list - > 装数据的
+    列表使用[]表示
+    []
+    list()
+    列表也有索引和切片
+
+    增删改查(重点)
+    增加:
+        1. append() 追加, 添加在列表的末尾
+        2. insert() 插入, 在xxxx位置插入一个元素
+        3. extend() 迭代新增.合并列表
+
+    删除:
+        1. pop() 删除. 指定索引删除
+        2. remove() 删除某个指定元素
+        3. del list[3]
+        4. clear()  清空列表
+
+    修改:
+        使用索引去修改
+
+    查询:
+        直接用索引查找.
+        使用for循环可以遍历列表
+
+    其他操作:
+        sort()
+        count()
+
+    元组(tuple): 不可变的列表,  只读列表
+        放一些不进行修改的数据
+        元组用()表示.
+        空元组必须用tuple()来创建
+
+        小知识点:  如果元组只有一个元素. 必须在末尾添加一个逗号
+
+
+八. dict 字典  查询速度快
+        在存储数据的时候必须使用key:value的形式进行存储,
+        key不可以重复.
+        并且要求key必须可哈希-> 不可变(int, str, tuple, bool, float)
+        value没有要求
+
+        字典的增删改查:
+            新增:
+                1. 直接用新key添加
+                2. setdefault(key, value)    如果key存在, 不新增. 不存在, 新增. 最后都查询
+
+            删除:
+                1. pop(key)  指定key删除
+                2. popitem() 删除最后一个.
+                3. del dic[key]
+                4. clear()
+
+            修改:
+                dic[老key] = 新value
+
+            查询:
+                get(key) 使用key获取value
+                dic[key] 查询, 如果key不存在. 会报错
+
+            循环:
+                for k in dic:
+                    k
+                    dic[k]
+
+                for k, v in dic.items():
+                    print(k)
+                    print(v)
+
+
+九. 知识点补充
+    1. range
+    2. join
+    3. while...else
+    4. for循环的时候不要删除列表中的内容
+
+    欠的: is和==区别, 深浅拷贝, set集合
+
+
+
+
