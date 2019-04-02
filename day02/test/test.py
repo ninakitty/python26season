@@ -101,11 +101,27 @@
 # for i in s:
 #     print(i)
 # list 操作
-list1 = [1, 2, 3]
-list2 = [4, 5, 6]
-list1.append(10)
-print(list1)
-list1.insert(1, 20)
-print(list1)
-list1.extend(list2)
-print(list1)
+# list1 = [1, 2, 3]
+# list2 = [4, 5, 6]
+# list1.append(10)
+# print(list1)
+# list1.insert(1, 20)
+# print(list1)
+# list1.extend(list2)
+# print(list1)
+# list1 = [1, 2, 3]
+# list1.pop()
+# print(list1)
+# list1.remove(2)
+# print(list1)
+# del list1[2]
+# print(list1)
+# list1.clear()
+# print(list1)
+# 要求输入"3+4+5+2"组成的字符串,计算出加法结果
+inputContent = input('please input content:')
+contentList = inputContent.split("+")
+total = 0
+for item in contentList:
+    total += int(item)
+print(total)
