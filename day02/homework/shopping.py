@@ -97,7 +97,7 @@ while True:
             print('您输入的序号不在商品范围!'.center(50, '-'))
     # 如果输入负数
     elif choice.startswith('-'):
-        choice = choice.strip('-')  # 去掉-
+        choice = choice.strip('-')  # 去掉负号-
         if choice.isdigit():
             if 0 < int(choice) <= len(commodity):  # 判断序号是否大于0并小于等于列表长度
                 mDic = commodity[int(choice) - 1]
