@@ -119,9 +119,14 @@
 # list1.clear()
 # print(list1)
 # 要求输入"3+4+5+2"组成的字符串,计算出加法结果
-inputContent = input('please input content:')
-contentList = inputContent.split("+")
-total = 0
-for item in contentList:
-    total += int(item)
-print(total)
+# inputContent = input('please input content:')
+# contentList = inputContent.split("+")
+# total = 0
+# for item in contentList:
+#     total += int(item)
+# print(total)
+x = []
+for i in range(len(x)):
+    print(i)
+else:
+    print('111')
