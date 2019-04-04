@@ -125,8 +125,10 @@
 # for item in contentList:
 #     total += int(item)
 # print(total)
-x = []
-for i in range(len(x)):
-    print(i)
-else:
-    print('111')
+# x = []
+# for i in range(len(x)):
+#     print(i)
+# else:
+#     print('111')
+dic={}
+print(dic.get('ss'))
