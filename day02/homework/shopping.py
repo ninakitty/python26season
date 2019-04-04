@@ -54,28 +54,30 @@ while True:
         total = 0  # 定义总价
         print('您选购的商品如下'.center(50, '*'))
         print(' 商品名称    商品价格     数量')
-        if len(trolley) == 0:
+        if len(trolley) == 0:  # 判断购物车是否为空
             print("您的购物车为空,请先添加商品!")
             continue
-        for item in trolley:
+        for item in trolley:  # 列出购物车中的商品,计算总价
             total += item['price'] * item['num']  # 总价等于商品价格*商品数量
             print(f'  {item["name"]}       {str(item["price"]).center(4, " ")}      {item["num"]}')
 
         if money < total:
             print('您充值的金额不足,请删除商品再试')
         else:
-            confim = input('请确认是否购买(Y),按回车键继续:')
-            if confim.upper() == "Y":
+            con = input('请确认是否购买(Y),按回车键继续:')
+            # 如果输入Y,结算并退出
+            if con.upper() == "Y":
                 money -= total  # 从金额中减去总价
                 print("本次您的消费信息如下:".center(50, '-'))
                 print(f'名称   单价   数量')
-                for confiItme in trolley:
-                    print(f'{confiItme["name"]}   {confiItme["price"]}   {confiItme["num"]}')
+                for conItem in trolley:
+                    print(f'{conItem["name"]}   {conItem["price"]}   {conItem["num"]}')
                 print(f'总计消费{total}元,余额还有{money}元')
                 break
             else:
                 continue
-    elif choice.isdigit():  # 如果选择的是数字
+    # 如果选择的是数字
+    elif choice.isdigit():
         if 0 < int(choice) <= len(commodity):  # 判断序号是否大于0并小于等于列表长度
             dic = commodity[int(choice) - 1]  # 被中的商品字典
             flag = False  # 设置标记,确认购车中是否已存在此商品
@@ -93,7 +95,8 @@ while True:
             print(f'您选择的商品为{dic["name"]},价格为{dic["price"]}元'.center(50, '-'))
         else:
             print('您输入的序号不在商品范围!'.center(50, '-'))
-    elif choice.startswith('-'):  # 如果输入负数
+    # 如果输入负数
+    elif choice.startswith('-'):
         choice = choice.strip('-')  # 去掉-
         if choice.isdigit():
             if 0 < int(choice) <= len(commodity):  # 判断序号是否大于0并小于等于列表长度
@@ -113,5 +116,6 @@ while True:
                 print('您输入的序号不在商品范围内!'.center(50, '-'))
         else:
             print('请在负号后面输入数字!'.center(50, '-'))
+    # 输入其它信息
     else:
         print('您输入的序号错误!'.center(50, '-'))
