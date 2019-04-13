@@ -130,5 +130,12 @@
 #     print(i)
 # else:
 #     print('111')
-dic={}
-print(dic.get('ss'))
+# dic={}
+# print(dic.get('ss'))
+
+lis = [1, 2, 3, 4, 5, 5, 4, 3, 4, 2, 1]
+dic = {}
+for i in lis:
+    dic[i] = dic.get(i, 0) + 1
+
+print(dic)
