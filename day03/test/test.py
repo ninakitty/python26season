@@ -72,12 +72,34 @@
 # yue('wechat')
 # yue('momo')
 
-def compare(x, y):
-    # if x > y:
-    #     return x
-    # return y
-    return x if x > y else y
+# def compare(x, y):
+#     # if x > y:
+#     #     return x
+#     # return y
+#     return x if x > y else y
+#
+#
+# big = compare(11, 22)
+# print(big)
+
+# def luru(name, age, height, gender='男'):
+#     print(name, age, gender, height)
+#
+#
+# luru('张三', 20, 50)
+# luru('李四', 30, 195, gender='女')
+#
+
+# 可变参数函数
+def food(*args):
+    print(args)
 
 
-big = compare(11, 22)
-print(big)
+food('wabash', 'havana', 'heeded')
+
+
+def noodle(**kwargs):
+    print(kwargs)
+
+
+noodle(a='tomato', b='egg', c='potato')
