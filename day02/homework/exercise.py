@@ -325,14 +325,14 @@ print(emptyList)
 #     敏感词列表 li = ["苍老师", "东京热", "武藤兰", "波多野结衣"]
 #     则将用户输入的内容中的敏感词汇替换成等长度的*（苍老师就替换***），并添加到一个列表中；如果用户输入
 #     的内容没有敏感词汇，则直接添加到上述的列表中
-# li = ["苍老师", "东京热", "武藤兰", "波多野结衣"]
-# comment = input('请输入评论内容:')
-# contentList = []
-# for item in li:  # 循环敏感词
-#     if item in comment:  # 确定包含敏感词
-#         comment = comment.replace(item, '*' * len(item))  # 替换相应长度*
-# contentList.append(comment)
-# print(contentList)
+li = ["苍老师", "东京热", "武藤兰", "波多野结衣"]
+comment = input('请输入评论内容:')
+contentList = []
+for item in li:  # 循环敏感词
+    if item in comment:  # 确定包含敏感词
+        comment = comment.replace(item, '*' * len(item))  # 替换相应长度*
+contentList.append(comment)
+print(contentList)
 # 29、有如下变量（tu是个元祖），请实现要求的功能
 # tu = ("alex", [11, 22, {"k1": 'v1', "k2": ["age", "name"], "k3": (11,22,33)}, 44])
 #     a. 讲述元祖的特性

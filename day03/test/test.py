@@ -91,15 +91,18 @@
 #
 
 # 可变参数函数
-def food(*args):
-    print(args)
+# def food(*args):
+#     print(args)
+#
+#
+# food('wabash', 'havana', 'heeded')
+#
+#
+# def noodle(**kwargs):
+#     print(kwargs)
+#
+#
+# noodle(a='tomato', b='egg', c='potato')
 
-
-food('wabash', 'havana', 'heeded')
-
-
-def noodle(**kwargs):
-    print(kwargs)
-
-
-noodle(a='tomato', b='egg', c='potato')
+lst = ['1', '2']
+print('3' in lst)
