@@ -1,5 +1,6 @@
 import os
 
+
 # 1、 文件a1.txt内容
 # 序号 部门 人数 平均年龄 备注
 # 1 python 30 26 单身狗
@@ -276,9 +277,14 @@ import os
 # 例如:cal(7) 计算7*6*5*4*3*2*1
 # def cal(num):
 #     factorial = 1  # 阶乘结果
-#     for i in range(1, num + 1):  # 迭代每个元素
-#         factorial *= i  # 每次与阶乘结果相乘
-#     return factorial
+#     if isinstance(num, int):
+#         if num <= 0:
+#             return '输入数字要求大于0!'
+#         for i in range(1, num + 1):  # 迭代每个元素
+#             factorial *= i  # 每次与阶乘结果相乘
+#         return factorial
+#     else:
+#         return '请输入一个大于0的数字!'
 #
 #
 # print(cal(7))
