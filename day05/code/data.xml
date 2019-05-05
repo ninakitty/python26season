@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<product>
+    <id>10010</id>
+    <name>大哥大</name>
+    <price>10086</price>
+
+    <ads>
+        <product>
+            <id>10010</id>
+            <name>大哥大</name>
+            <price>10086</price>
+        </product>
+    </ads>
+</product>
