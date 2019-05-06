@@ -1,5 +1,6 @@
 import re
 import json
+import ssl
 from urllib.request import urlopen
 
 
@@ -10,6 +11,7 @@ def get_handle(url, re_str):
     :param re_str: 传入re字符
     :return: 返回解析后的内容
     '''
+    ssl._create_default_https_context = ssl._create_unverified_context
     content = urlopen(url).read().decode("GBK")  # 获取页面信息并解码
     obj = re.compile(re_str, re.S)
     item = obj.finditer(content)
