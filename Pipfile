@@ -11,6 +11,9 @@ beautifulsoup = "*"
 bs4 = "*"
 requests = "*"
 lxml = "*"
+pywin32 = "*"
+pyinstaller = "*"
+easygui = "*"
 
 [requires]
 python_version = "3.6"

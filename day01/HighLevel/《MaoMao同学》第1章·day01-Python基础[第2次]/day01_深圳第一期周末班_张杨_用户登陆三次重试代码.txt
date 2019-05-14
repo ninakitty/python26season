@@ -1,0 +1,21 @@
+dic1 = {'Meggy' : 'meggY@123'} 
+count = 3
+while count > 0 :
+	count -= 1
+	user1 = input('请输入用户名：')
+	password1 = input('请输入密码：')
+	if user1 not in dic1.keys() :
+		if count != 0 :
+			print('用户名不存在，你还有',count,'次重试机会')
+		else :
+			print('用户名连续输错三次，请一天后再重试')
+		continue
+	elif password1 != dic1['Meggy'] :
+		if count != 0 :
+			print('密码错误，你还有',count,'次重试机会')
+		else :
+			print('密码错误，用户已被锁')
+		continue
+	else :
+		print('登陆成功')
+		break

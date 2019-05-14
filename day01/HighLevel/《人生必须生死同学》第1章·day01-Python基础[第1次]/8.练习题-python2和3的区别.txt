@@ -1,0 +1,4 @@
+1. python2默认是acsii编码，PythonM默认是utf-8
+
+2. python2使用input，当输入的是不是py文件已定义好的变量，会报错。python3则不会
+

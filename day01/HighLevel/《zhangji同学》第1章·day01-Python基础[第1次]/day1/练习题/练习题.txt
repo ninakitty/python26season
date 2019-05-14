@@ -1,0 +1,194 @@
+1.简述变量命名规范：
+
+	1、变量要由数字、字母、下划线任意组合。
+	2、变量不能以数字开头。
+	3、变量不能是python中的关键字
+	['and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del',
+ 'elif', 'else', 'except', 'exec', 'finally', 'for',
+ 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 
+ 'not', 'or', 'pass', 'print', 'raise', 'return', 'try', 
+ 'while', 'with', 'yield']
+	4、变量要具有描述性
+	5、变量不能使用中文或者拼音
+	6、建议使用驼峰体或者下划线，后者较好。
+	
+	
+2.name = input(">>>") name变量是什么数据类型？
+		name是 字符串 str
+		
+
+		
+		
+		
+3.if条件语句的基本结构？
+	1、单if
+		if 条件：
+			代码块
+			
+	2、if else 
+		if  条件：
+			代码块
+		else：
+			代码块
+			
+	3、if elif ...  #多选一，从上至下依次执行，满足条件就执行结果，后面就不执行了。
+		if 条件:
+			代码块
+		elif 条件:
+			代码块
+		elif 条件:
+			代码块
+			.
+			.
+			.
+			
+			
+	4、if elif ... else
+		if 条件:
+			代码块
+		elif 条件:
+			代码块
+		elif 条件:
+			代码块
+			.
+			.
+			.
+		else:
+			代码块
+			
+	5、if嵌套     #一般if嵌套不要超过3层
+		if 条件:
+			if 条件:
+				代码块
+			else:
+				代码块
+		else：
+			代码块
+		
+	
+4.用print打印输出内容
+	
+print("""文能提笔安天下,
+武能上马定乾坤.
+心存谋略何人胜,
+古今英雄唯是君.""")
+	
+	
+5.利用if语句写出猜大小游戏
+
+a = int(input("请输入一个数字："))
+if a > 66:
+	print("你猜测的结果大了！")
+elif a < 66:
+	print("你猜测的结果小了！")
+else:
+	print("恭喜你，猜对了！")
+	
+	
+6.提示用户输入他的年龄，程序进行判断
+
+age = int(input("请输入你的年龄："))
+if age > 90:
+	print("再见了这个世界！")
+elif age > 70:
+	print("人生就快结束了的一个老屁孩")
+elif age > 60:
+	print("活着还不错的老屁孩")
+elif age > 50:
+	print("自己马上变成不听话的老屁孩")
+elif age > 40:
+	print("家里有个不听话的小屁孩")
+elif age > 30:
+	print("看你老大不小了，赶紧结婚，小屁孩")
+elif age > 20:
+	print("开始定性，混迹社会的小屁孩")
+elif age > 10:
+	print("青春叛逆的小屁孩")
+else:
+	print("小屁孩")
+
+
+7.单行注释使用
+
+#被注释内容  
+
+多行注释使用
+
+'''
+被注释内容
+被注释内容
+被注释内容
+'''	
+	
+8.
+python2x:源码冗余、重复、不规范
+python3x:源码简洁、清晰、简单
+	
+9.
+name = "麻花藤"
+a = input("请输入麻花藤：")
+if a == name:
+	print("真聪明")
+else:
+	print("你是傻逼么")
+
+
+
+10.
+
+a = 1
+while a < 11:
+	print(a)
+	a = a + 1
+
+
+
+11.
+
+a = 1
+sum = 0
+while a < 101:
+	sum = sum + a
+	a = a + 1
+print(sum)
+
+
+
+12.
+
+
+a = 1
+while a < 101:
+	b = a%2
+	if b == 1:
+		print(a)
+	a = a + 1
+	
+
+
+13.
+
+a = 1
+while a < 101:
+	b = a%2
+	if b == 0:
+		print(a)
+	a = a + 1
+
+
+
+14.
+
+a = 1
+sum_odd = 0
+sum_even = 0
+while a < 100:
+	b = a%2
+	if b == 1:
+		sum_odd = sum_odd + a
+	elif b == 0:
+		sum_even = sum_even + a
+	a = a + 1
+print(int(sum_odd - sum_even))
+	
+	

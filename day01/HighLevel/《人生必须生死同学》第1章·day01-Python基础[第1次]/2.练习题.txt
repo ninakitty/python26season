@@ -1,0 +1,3 @@
+name = input(“>>>”) name变量是什么数据类型？
+
+    name变量为string类型

@@ -116,20 +116,21 @@ lower:97-122
 #     file.write('insert_content')
 
 # 8、计算某路径下所有文件和文件夹的总大小
-import os
+# import os
+#
+#
+# def count_dir(a_dir):
+#     summary = 0
+#     list_dir = os.listdir(a_dir)  # 列出文件夹下内容
+#     for item in list_dir:
+#         cur_path = os.path.join(a_dir, item)  # 拼接路径
+#         if os.path.isdir(cur_path):
+#             summary += os.stat(cur_path).st_size  # 计算大小
+#             count_dir(cur_path)  # 递归
+#         else:
+#             summary += os.stat(cur_path).st_size
+#     return summary
+#
+#
+# print(count_dir('.'))
 
-
-def count_dir(a_dir):
-    summary = 0
-    list_dir = os.listdir(a_dir)  # 列出文件夹下内容
-    for item in list_dir:
-        cur_path = os.path.join(a_dir, item)  # 拼接路径
-        if os.path.isdir(cur_path):
-            summary += os.stat(cur_path).st_size  # 计算大小
-            count_dir(cur_path)  # 递归
-        else:
-            summary += os.stat(cur_path).st_size
-    return summary
-
-
-print(count_dir('.'))
