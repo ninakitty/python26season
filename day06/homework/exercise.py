@@ -395,7 +395,7 @@ class Student(Class):  # 学员
         print(record)
         self.class_obj.school_obj.get_tuition(money)  # 学校收钱
 
-    def change_school(self, new_cls):
+    def change_school(self, new_cls):  # 转学
         self.class_obj.stu_lst.remove(self)
         new_cls.stu_lst.append(self)
         print(f'{self.name}由{self.class_obj.class_num}转到了{new_cls.class_num}')
