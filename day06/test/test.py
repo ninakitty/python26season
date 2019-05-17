@@ -202,8 +202,10 @@
 #
 # teacher = Teacher('Tom', student_list)
 # teacher.lesson()
-def mul():
-    return [lambda x: x * i for i in range(4)]
 
-
-print([m(2) for m in mul()])
+# 面试题
+# def mul():
+#     return [lambda x: x * i for i in range(4)]
+#
+#
+# print([m(2) for m in mul()])

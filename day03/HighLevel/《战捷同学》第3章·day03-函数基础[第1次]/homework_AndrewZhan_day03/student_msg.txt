@@ -1,0 +1,5 @@
+Andrew	male	18	college
+Andrew	男	18	college
+Grace	女	18	Undergraduate
+Gavin	男	18	专
+john	男	19	本

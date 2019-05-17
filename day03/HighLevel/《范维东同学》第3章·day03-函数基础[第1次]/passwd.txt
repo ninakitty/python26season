@@ -1,0 +1,3 @@
+user,passwd
+admin,123
+admn,123

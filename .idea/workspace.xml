@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/day05/homework/exercise.py" line="80" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c49a3d9-2d33-49c2-a882-0c6a394ba80b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《Alan同学》第2章·day02-数据类型[第1次]/shopping作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《MaoMao同学》第2章·day02-数据类型[第1次]/day02_深圳第一期周末班_张杨_购物车.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《abel同学》第2章·day02-数据类型[第1次]/day2_shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《allenwang767同学》第2章·day02-数据类型[第1次]/Wangrui-day2-homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《bernie同学》第2章·day02-数据类型[第1次]/邱红隶第二天作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《chen16同学》第2章·day02-数据类型[第1次]/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《derienzhang同学》第2章·day02-数据类型[第1次]/day2_of_张卫兵/day2_of_zwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《derienzhang同学》第2章·day02-数据类型[第1次]/day2_of_张卫兵/exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《hexingliang同学》第2章·day02-数据类型[第1次]/购物车1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《hyattyu同学》第2章·day02-数据类型[第1次]/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《jimmy同学》第2章·day02-数据类型[第1次]/shoppingcar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《lijincheng同学》第2章·day02-数据类型[第1次]/shopping/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《stein同学》第2章·day02-数据类型[第1次]/shoppingcar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《sunmorg同学》第2章·day02-数据类型[第1次]/02_exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《sunmorg同学》第2章·day02-数据类型[第1次]/02_homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第1次]/day02/day02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/dictionaries/wangxiaohui00747.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/day02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《wangxiaohui00747同学》第2章·day02-数据类型[第2次]/day02/gowuche.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《xiang0134同学》第2章·day02-数据类型[第1次]/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《xiang0134同学》第2章·day02-数据类型[第2次]/购物车_作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《zhangji同学》第2章·day02-数据类型[第1次]/购物车作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《zjt0801同学》第2章·day02-数据类型[第1次]/购物车/购物车.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《人生必须生死同学》第2章·day02-数据类型[第1次]/second作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《刘世路同学》第2章·day02-数据类型[第1次]/0825购物车.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《刘雄军同学》第2章·day02-数据类型[第1次]/day02作业-刘雄军.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《刘雄军同学》第2章·day02-数据类型[第1次]/day02练习题-刘雄军.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《卓某同学》第2章·day02-数据类型[第1次]/shop_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《吴志盛同学》第2章·day02-数据类型[第1次]/day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《李忠洋同学》第2章·day02-数据类型[第1次]/购物车作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《杨世雄01同学》第2章·day02-数据类型[第1次]/__MACOSX/._第二天练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《杨世雄01同学》第2章·day02-数据类型[第1次]/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《杨世雄01同学》第2章·day02-数据类型[第1次]/第二天作业购物车.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《杨世雄01同学》第2章·day02-数据类型[第1次]/第二天练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《林欣阳同学》第2章·day02-数据类型[第1次]/home_work02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《林欣阳同学》第2章·day02-数据类型[第2次]/home_work02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/.idea/s17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day01/db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day01/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day01/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day01/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day01/s3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day02/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17/day02/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第1次]/s17day02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《肖彬同学》第2章·day02-数据类型[第2次]/02 作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《范维东同学》第2章·day02-数据类型[第1次]/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《董家效同学》第2章·day02-数据类型[第1次]/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/HighLevel/《马铖龙同学》第2章·day02-数据类型[第1次]/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《Alan同学》第3章·day03-函数基础[第1次]/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/.idea/20180902.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/day03_homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/employee_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《MaoMao同学》第3章·day03-函数基础[第1次]/employee_info.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/staff_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/staff_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/staff_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/user_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《abel同学》第3章·day03-函数基础[第1次]/staff_info/user_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《allenwang767同学》第3章·day03-函数基础[第1次]/Wangrui-day3-homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《chen16同学》第3章·day03-函数基础[第1次]/sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《chen16同学》第3章·day03-函数基础[第1次]/信息表.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《chen16同学》第3章·day03-函数基础[第2次]/sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《chen16同学》第3章·day03-函数基础[第2次]/信息表.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《derienzhang同学》第3章·day03-函数基础[第1次]/作业/com_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《derienzhang同学》第3章·day03-函数基础[第1次]/作业/day3_of_derienzhang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《derienzhang同学》第3章·day03-函数基础[第1次]/作业/函数知识点.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《fuckal同学》第3章·day03-函数基础[第1次]/03_work.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《fuckal同学》第3章·day03-函数基础[第1次]/03_work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《hexingliang同学》第3章·day03-函数基础[第1次]/模拟博客园登陆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《hyattyu同学》第3章·day03-函数基础[第1次]/userinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《hyattyu同学》第3章·day03-函数基础[第1次]/week3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《jimmy同学》第3章·day03-函数基础[第1次]/day3homework/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《jimmy同学》第3章·day03-函数基础[第1次]/day3homework/用户信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《lijincheng同学》第3章·day03-函数基础[第1次]/根据讲解的作业写的.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《lijincheng同学》第3章·day03-函数基础[第1次]/补交第3天作业/shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《lijincheng同学》第3章·day03-函数基础[第1次]/补交第3天作业/user_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《stein同学》第3章·day03-函数基础[第1次]/select查找信息/fileinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《stein同学》第3章·day03-函数基础[第1次]/select查找信息/selectfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《stein同学》第3章·day03-函数基础[第1次]/函数购物车/shopping_car_f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《stein同学》第3章·day03-函数基础[第1次]/函数购物车/use_pwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《sunmorg同学》第3章·day03-函数基础[第1次]/shoping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《sunmorg同学》第3章·day03-函数基础[第1次]/user.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《xiang0134同学》第3章·day03-函数基础[第1次]/购物车_作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《xiang0134同学》第3章·day03-函数基础[第2次]/第三章作业_2/session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《xiang0134同学》第3章·day03-函数基础[第2次]/第三章作业_2/users1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《xiang0134同学》第3章·day03-函数基础[第2次]/第三章作业_2/第三章作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《zhangji同学》第3章·day03-函数基础[第1次]/张继day3/商品清单" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《zhangji同学》第3章·day03-函数基础[第1次]/张继day3/用函数完成登陆注册以及购物车.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《zhangji同学》第3章·day03-函数基础[第1次]/张继day3/用户信息" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《zjt0801同学》第3章·day03-函数基础[第1次]/员工信息表作业/员工信息表作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《人生必须生死同学》第3章·day03-函数基础[第1次]/day03-景老师作业.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《人生必须生死同学》第3章·day03-函数基础[第1次]/day03-路飞作业.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘世路同学》第3章·day03-函数基础[第1次]/员工信息表0908（刘世露）/0902员工信息表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘世路同学》第3章·day03-函数基础[第1次]/员工信息表0908（刘世露）/account_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘世路同学》第3章·day03-函数基础[第1次]/员工信息表0908（刘世露）/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘世路同学》第3章·day03-函数基础[第1次]/员工信息表0908（刘世露）/staff_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘雄军同学》第3章·day03-函数基础[第1次]/day03作业-刘雄军.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《刘雄军同学》第3章·day03-函数基础[第1次]/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《卓某同学》第3章·day03-函数基础[第1次]/员工信息表作业/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《卓某同学》第3章·day03-函数基础[第1次]/员工信息表作业/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《卓某同学》第3章·day03-函数基础[第1次]/员工信息表作业/zuoye2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《吴志盛同学》第3章·day03-函数基础[第1次]/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/a1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/practices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/student_msg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第1次]/homework_AndrewZhan_day03/usersinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《战捷同学》第3章·day03-函数基础[第2次]/practice_8_Andrewzhan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《李忠洋同学》第3章·day03-函数基础[第1次]/函数购物车作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《李忠洋同学》第3章·day03-函数基础[第1次]/用户信息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/__MACOSX/._结构流程图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/read me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/员工信息表" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/员工信息表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《杨世雄01同学》第3章·day03-函数基础[第1次]/结构流程图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第1次]/肖岩岩/a1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第1次]/肖岩岩/student_msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第1次]/肖岩岩/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第1次]/肖岩岩/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第1次]/肖岩岩/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第2次]/肖岩岩/a1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第2次]/肖岩岩/student_msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第2次]/肖岩岩/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第2次]/肖岩岩/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖岩岩同学》第3章·day03-函数基础[第2次]/肖岩岩/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖彬同学》第3章·day03-函数基础[第1次]/day03景女神布置的作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖彬同学》第3章·day03-函数基础[第1次]/day3路飞学城作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖彬同学》第3章·day03-函数基础[第1次]/员工信息" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《肖彬同学》第3章·day03-函数基础[第1次]/用户管理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《范维东同学》第3章·day03-函数基础[第1次]/passwd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《范维东同学》第3章·day03-函数基础[第1次]/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《董家效同学》第3章·day03-函数基础[第1次]/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《董家效同学》第3章·day03-函数基础[第1次]/login" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第1次]/第三周作业/homework_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第1次]/第三周作业/homework_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第1次]/第三周作业/三国演义" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第1次]/第三周作业/用户信息" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第1次]/第三周作业/购物车—函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第2次]/第三周作业--2/a1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第2次]/第三周作业--2/homework_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第2次]/第三周作业--2/三国演义-针对第八题" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第2次]/第三周作业--2/用户信息-针对购物车存用户名和密码" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《郭建成同学》第3章·day03-函数基础[第2次]/第三周作业--2/购物车—函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《马铖龙同学》第3章·day03-函数基础[第1次]/day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/HighLevel/《马铖龙同学》第3章·day03-函数基础[第1次]/user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《Alan同学》第4章·day04-函数进阶[第1次]/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《Herolinux同学》第4章·day04-函数进阶[第1次]/bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《Herolinux同学》第4章·day04-函数进阶[第1次]/day04作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《Imingxing同学》第4章·day04-函数进阶[第1次]/Day04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第1次]/day03_homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第1次]/employee_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/.idea/20180915.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/20180915.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《MaoMao同学》第4章·day04-函数进阶[第2次]/20180915_博客园登录/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/cn_blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/cn_blog_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/op_logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/user_info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《abel同学》第4章·day04-函数进阶[第1次]/cnblogs/user_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《allenwang767同学》第4章·day04-函数进阶[第1次]/day4_zuoye_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《allenwang767同学》第4章·day04-函数进阶[第1次]/day4lianxiti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《allenwang767同学》第4章·day04-函数进阶[第1次]/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《chen16同学》第4章·day04-函数进阶[第1次]/blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《chen16同学》第4章·day04-函数进阶[第1次]/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《chen16同学》第4章·day04-函数进阶[第1次]/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《derienzhang同学》第4章·day04-函数进阶[第1次]/作业/day4_of_derienzhang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《derienzhang同学》第4章·day04-函数进阶[第1次]/作业/operate.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《derienzhang同学》第4章·day04-函数进阶[第1次]/作业/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《hexingliang同学》第4章·day04-函数进阶[第1次]/模拟博客园登陆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《hyattyu同学》第4章·day04-函数进阶[第1次]/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《hyattyu同学》第4章·day04-函数进阶[第1次]/userinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《hyattyu同学》第4章·day04-函数进阶[第1次]/week4homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《jimmy同学》第4章·day04-函数进阶[第1次]/day4/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《jimmy同学》第4章·day04-函数进阶[第1次]/day4/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《lijincheng同学》第4章·day04-函数进阶[第1次]/第四天作业/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《lijincheng同学》第4章·day04-函数进阶[第1次]/第四天作业/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《lijincheng同学》第4章·day04-函数进阶[第1次]/第四天作业/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《stein同学》第4章·day04-函数进阶[第1次]/模拟博客园登陆/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《stein同学》第4章·day04-函数进阶[第1次]/模拟博客园登陆/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《stein同学》第4章·day04-函数进阶[第1次]/模拟博客园登陆/模拟博客园登陆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《sunmorg同学》第4章·day04-函数进阶[第1次]/04_blog_homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《sunmorg同学》第4章·day04-函数进阶[第1次]/func_log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《sunmorg同学》第4章·day04-函数进阶[第1次]/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zhangji同学》第4章·day04-函数进阶[第1次]/张继day4/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zhangji同学》第4章·day04-函数进阶[第1次]/张继day4/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zhangji同学》第4章·day04-函数进阶[第1次]/张继day4/模拟博客园登陆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zjt0801同学》第4章·day04-函数进阶[第1次]/作业/log.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zjt0801同学》第4章·day04-函数进阶[第1次]/作业/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《zjt0801同学》第4章·day04-函数进阶[第1次]/作业/博客园作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《人生必须生死同学》第4章·day04-函数进阶[第1次]/day04-作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《人生必须生死同学》第4章·day04-函数进阶[第1次]/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《人生必须生死同学》第4章·day04-函数进阶[第1次]/registry.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘世路同学》第4章·day04-函数进阶[第1次]/博客园登录作业/0909博客园登陆.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘世路同学》第4章·day04-函数进阶[第1次]/博客园登录作业/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘世路同学》第4章·day04-函数进阶[第1次]/博客园登录作业/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘雄军同学》第4章·day04-函数进阶[第1次]/day04作业-刘雄军.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘雄军同学》第4章·day04-函数进阶[第1次]/log_func" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《刘雄军同学》第4章·day04-函数进阶[第1次]/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《卓某同学》第4章·day04-函数进阶[第1次]/作业4/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《卓某同学》第4章·day04-函数进阶[第1次]/作业4/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《卓某同学》第4章·day04-函数进阶[第1次]/作业4/作业(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《吴志盛同学》第4章·day04-函数进阶[第1次]/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/exec.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/execution.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/practices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/user_info_db.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《战捷同学》第4章·day04-函数进阶[第1次]/homework_AndrewZhan_day04/vblog_portal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《无忧花开同学》第4章·day04-函数进阶[第1次]/第4章day04-函数进阶.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/__MACOSX/._条件结构流程图-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/条件结构流程图-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/杨世雄day4作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《杨世雄01同学》第4章·day04-函数进阶[第1次]/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/userinfo-more.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖岩岩同学》第4章·day04-函数进阶[第1次]/肖岩岩/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖彬同学》第4章·day04-函数进阶[第1次]/day04作业/day04路飞学成作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖彬同学》第4章·day04-函数进阶[第1次]/day04作业/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《肖彬同学》第4章·day04-函数进阶[第1次]/day04作业/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《范维东同学》第4章·day04-函数进阶[第1次]/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《范维东同学》第4章·day04-函数进阶[第1次]/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《董家效同学》第4章·day04-函数进阶[第1次]/python_day4/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《董家效同学》第4章·day04-函数进阶[第1次]/python_day4/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《董家效同学》第4章·day04-函数进阶[第1次]/python_day4/register" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《马铖龙同学》第4章·day04-函数进阶[第1次]/day4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《马铖龙同学》第4章·day04-函数进阶[第1次]/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《马铖龙同学》第4章·day04-函数进阶[第1次]/register.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《高强同学》第4章·day04-函数进阶[第1次]/log07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《高强同学》第4章·day04-函数进阶[第1次]/logfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《高强同学》第4章·day04-函数进阶[第1次]/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《高强同学》第4章·day04-函数进阶[第1次]/users" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/HighLevel/《高强同学》第4章·day04-函数进阶[第1次]/zy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《lwm23同学》第1章·day05-模块[第1次]/lwm-day005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《will同学》第1章·day05-模块[第1次]/第五周作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《zl666张良同学》第1章·day05-模块[第1次]/homework_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《张洋洋同学》第1章·day05-模块[第1次]/day05--练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《张洋洋同学》第1章·day05-模块[第1次]/day05-作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《战捷同学》第1章·day05-模块[第1次]/homework_AndrewZhan_day05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《战捷同学》第1章·day05-模块[第1次]/homework_AndrewZhan_day05/practices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《战捷同学》第1章·day05-模块[第1次]/homework_AndrewZhan_day05/simple_scrapy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《战捷同学》第1章·day05-模块[第1次]/homework_AndrewZhan_day05/test_dir/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第1次]/肖岩岩/film_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第1次]/肖岩岩/folder/file_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第1次]/肖岩岩/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第1次]/肖岩岩/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第2次]/肖岩岩/film_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第2次]/肖岩岩/folder/file_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第2次]/肖岩岩/作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/HighLevel/《肖岩岩同学》第1章·day05-模块[第2次]/肖岩岩/练习题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day05/homework/insert_dir/insert_file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/01 今日内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/02  test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/03 购物车.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/04 面向对象01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/05 面型对象02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/06 面向对象03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/07 面向对象04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/08 继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/09 多台.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/10 类的成员.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/11 依赖关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/12  关联关系-一对一.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/13 关联关系- 一对多关系.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/14 私有内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/code/15. 笔试题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/homework/day06.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/homework/school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/homework/周末班面向对象大作业.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/homework/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/homework/exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/test/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python26season$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1554384158777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02/homework" />
+    <SUITE FILE_PATH="coverage/python26season$exercise__2_.coverage" NAME="exercise (2) Coverage Results" MODIFIED="1555914875247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/homework" />
+    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1557067753295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1555760552727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/test" />
+    <SUITE FILE_PATH="coverage/python26season$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1557159378657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
+    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1556351473193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1556078195301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/homework" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy__1_.coverage" NAME="scrapy (1) Coverage Results" MODIFIED="1557070184889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556674044954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$blog.coverage" NAME="blog Coverage Results" MODIFIED="1556098755318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04/homework" />
+    <SUITE FILE_PATH="coverage/python26season$shopping__1_.coverage" NAME="shopping (1) Coverage Results" MODIFIED="1555570904055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day03/homework" />
+    <SUITE FILE_PATH="coverage/python26season$login__1_.coverage" NAME="login (1) Coverage Results" MODIFIED="1553665706106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day01/homework" />
+    <SUITE FILE_PATH="coverage/python26season$login.coverage" NAME="login Coverage Results" MODIFIED="1553478768025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day06/homework/exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="453" column="31" selection-start-line="453" selection-start-column="31" selection-end-line="453" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/homework/school.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06/test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4009">
+              <caret line="211" selection-start-line="211" selection-end-line="211" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>useris</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/homework/login.py" />
+        <option value="$PROJECT_DIR$/day01/test/test.py" />
+        <option value="$PROJECT_DIR$/day01/homework/login.py" />
+        <option value="$PROJECT_DIR$/day01/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day02/homework/shopping.py" />
+        <option value="$PROJECT_DIR$/day02/test/test.py" />
+        <option value="$PROJECT_DIR$/day03/test/文本文件.txt" />
+        <option value="$PROJECT_DIR$/day03/test/fruit.txt" />
+        <option value="$PROJECT_DIR$/day03/test/haha.txt" />
+        <option value="$PROJECT_DIR$/day03/homework/a1.txt" />
+        <option value="$PROJECT_DIR$/day02/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day03/homework/student_msg" />
+        <option value="$PROJECT_DIR$/day03/test/test.py" />
+        <option value="$PROJECT_DIR$/day03/homework/shopping_user" />
+        <option value="$PROJECT_DIR$/day03/homework/shopping.py" />
+        <option value="$PROJECT_DIR$/day04/test/test.py" />
+        <option value="$PROJECT_DIR$/day03/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day04/homework/exerices.py" />
+        <option value="$PROJECT_DIR$/day04/homework/login_db" />
+        <option value="$PROJECT_DIR$/day04/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day04/homework/exec_function_log" />
+        <option value="$PROJECT_DIR$/day04/homework/blog.py" />
+        <option value="$PROJECT_DIR$/day04/homework/log" />
+        <option value="$PROJECT_DIR$/day04/homework/register" />
+        <option value="$PROJECT_DIR$/Pipfile" />
+        <option value="$PROJECT_DIR$/day05/test/scrapy.py" />
+        <option value="$PROJECT_DIR$/day05/homework/calculator.py" />
+        <option value="$PROJECT_DIR$/day05/homework/scrpy.py" />
+        <option value="$PROJECT_DIR$/day05/test/test.py" />
+        <option value="$PROJECT_DIR$/day05/homework/scrapy.py" />
+        <option value="$PROJECT_DIR$/day05/code/生成器笔试题.py" />
+        <option value="$PROJECT_DIR$/day06/test/py_exe.py" />
+        <option value="$PROJECT_DIR$/day06/test/111.reg" />
+        <option value="$PROJECT_DIR$/day06/test/test_tkinter.py" />
+        <option value="$PROJECT_DIR$/day06/test/getwebsite.py" />
+        <option value="$PROJECT_DIR$/day05/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day05/HighLevel/《lwm23同学》第1章·day05-模块[第1次]/lwm-day005.py" />
+        <option value="$PROJECT_DIR$/day06/test/test.py" />
+        <option value="$PROJECT_DIR$/day06/homework/exercise.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1380" />
+    <option name="height" value="879" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python26season" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python26season" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python26season" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python26season" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day02" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python Code\python26season\day02" />
+      <recent name="E:\Python Code\python26season\day01" />
+      <recent name="E:\Python Code\python26season\day06\课件" />
+      <recent name="D:\Python Code\python26season\day03\homework" />
+      <recent name="$PROJECT_DIR$/day02/code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python Code\python26season\day06\homework" />
+      <recent name="E:\Python Code\python26season" />
+      <recent name="E:\Python Code\python26season\day05\homework" />
+      <recent name="D:\Python Code\python26season\day05\code" />
+      <recent name="D:\Python Code\python26season\day05\课件" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exercise">
+    <configuration name="exercise (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python26season" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/homework/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python26season" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/homework/exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="school" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python26season" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/homework/school.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scrapy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python26season" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/homework/scrapy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python26season" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.exercise" />
+      <item itemvalue="Python.exercise (1)" />
+      <item itemvalue="Python.scrapy (1)" />
+      <item itemvalue="Python.test (2)" />
+      <item itemvalue="Python.school" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise" />
+        <item itemvalue="Python.school" />
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.scrapy (1)" />
+        <item itemvalue="Python.exercise (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c49a3d9-2d33-49c2-a882-0c6a394ba80b" name="Default Changelist" comment="" />
+      <created>1553477841134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553477841134</updated>
+      <workItem from="1553477844798" duration="792000" />
+      <workItem from="1553478757465" duration="173000" />
+      <workItem from="1553478993149" duration="44000" />
+      <workItem from="1553479258893" duration="4034000" />
+      <workItem from="1553483607494" duration="197000" />
+      <workItem from="1553564778960" duration="5386000" />
+      <workItem from="1553583606022" duration="4895000" />
+      <workItem from="1553605357338" duration="3820000" />
+      <workItem from="1553650866406" duration="694000" />
+      <workItem from="1553665588527" duration="1639000" />
+      <workItem from="1553669400502" duration="2294000" />
+      <workItem from="1553693913379" duration="1016000" />
+      <workItem from="1553734524189" duration="5000" />
+      <workItem from="1553746945923" duration="1994000" />
+      <workItem from="1553829173705" duration="1497000" />
+      <workItem from="1553912876616" duration="16999000" />
+      <workItem from="1554168983788" duration="15389000" />
+      <workItem from="1554196680613" duration="1789000" />
+      <workItem from="1554209136457" duration="255000" />
+      <workItem from="1554209938119" duration="9238000" />
+      <workItem from="1554267469671" duration="353000" />
+      <workItem from="1554267856942" duration="9069000" />
+      <workItem from="1554297321545" duration="8021000" />
+      <workItem from="1554341268365" duration="98000" />
+      <workItem from="1554342614042" duration="12640000" />
+      <workItem from="1554362239191" duration="517000" />
+      <workItem from="1554366517425" duration="446000" />
+      <workItem from="1554383433654" duration="146000" />
+      <workItem from="1554383612890" duration="7000" />
+      <workItem from="1554384112547" duration="25000" />
+      <workItem from="1554384148824" duration="643000" />
+      <workItem from="1554479069653" duration="5000" />
+      <workItem from="1554530377614" duration="179000" />
+      <workItem from="1554530579657" duration="82000" />
+      <workItem from="1554530672072" duration="180000" />
+      <workItem from="1554565514976" duration="7000" />
+      <workItem from="1554729828583" duration="541000" />
+      <workItem from="1554811798702" duration="638000" />
+      <workItem from="1554812648471" duration="368000" />
+      <workItem from="1555033617579" duration="904000" />
+      <workItem from="1555034731136" duration="479000" />
+      <workItem from="1555059680951" duration="751000" />
+      <workItem from="1555127412343" duration="13038000" />
+      <workItem from="1555247411097" duration="1826000" />
+      <workItem from="1555249499970" duration="4680000" />
+      <workItem from="1555405389921" duration="2975000" />
+      <workItem from="1555422172569" duration="6737000" />
+      <workItem from="1555463545532" duration="7574000" />
+      <workItem from="1555504939398" duration="4381000" />
+      <workItem from="1555550816278" duration="6226000" />
+      <workItem from="1555557147300" duration="417000" />
+      <workItem from="1555557603991" duration="7596000" />
+      <workItem from="1555571279014" duration="2664000" />
+      <workItem from="1555663321956" duration="228000" />
+      <workItem from="1555663579143" duration="111000" />
+      <workItem from="1555663717592" duration="256000" />
+      <workItem from="1555726984032" duration="15578000" />
+      <workItem from="1555914172093" duration="11688000" />
+      <workItem from="1555983315652" duration="7082000" />
+      <workItem from="1555997024993" duration="7659000" />
+      <workItem from="1556072625120" duration="12232000" />
+      <workItem from="1556088775809" duration="7290000" />
+      <workItem from="1556156896440" duration="192000" />
+      <workItem from="1556254448244" duration="99000" />
+      <workItem from="1556258377019" duration="428000" />
+      <workItem from="1556258884452" duration="626000" />
+      <workItem from="1556259539367" duration="2792000" />
+      <workItem from="1556328396131" duration="1986000" />
+      <workItem from="1556332529093" duration="16791000" />
+      <workItem from="1556419383948" duration="672000" />
+      <workItem from="1556516370483" duration="999000" />
+      <workItem from="1556517631031" duration="1243000" />
+      <workItem from="1556518890259" duration="269000" />
+      <workItem from="1556587229945" duration="2987000" />
+      <workItem from="1556590723442" duration="249000" />
+      <workItem from="1556600606856" duration="1465000" />
+      <workItem from="1556607476926" duration="1253000" />
+      <workItem from="1556673723395" duration="1526000" />
+      <workItem from="1556716098948" duration="4620000" />
+      <workItem from="1556796003871" duration="4808000" />
+      <workItem from="1556840791474" duration="4030000" />
+      <workItem from="1556854203277" duration="21000" />
+      <workItem from="1557019132395" duration="27063000" />
+      <workItem from="1557065817564" duration="2643000" />
+      <workItem from="1557105832501" duration="346000" />
+      <workItem from="1557110318694" duration="540000" />
+      <workItem from="1557110924226" duration="40000" />
+      <workItem from="1557111321041" duration="783000" />
+      <workItem from="1557112784080" duration="46000" />
+      <workItem from="1557126629280" duration="1421000" />
+      <workItem from="1557128808992" duration="88000" />
+      <workItem from="1557128928844" duration="100000" />
+      <workItem from="1557129097436" duration="8000" />
+      <workItem from="1557129403223" duration="2001000" />
+      <workItem from="1557148216403" duration="5349000" />
+      <workItem from="1557199890077" duration="702000" />
+      <workItem from="1557203683826" duration="627000" />
+      <workItem from="1557204711142" duration="4715000" />
+      <workItem from="1557210141884" duration="1699000" />
+      <workItem from="1557221631216" duration="1172000" />
+      <workItem from="1557278489649" duration="1899000" />
+      <workItem from="1557481475959" duration="1550000" />
+      <workItem from="1557537021354" duration="14158000" />
+      <workItem from="1557819651523" duration="983000" />
+      <workItem from="1557822373172" duration="9305000" />
+      <workItem from="1557898213101" duration="607000" />
+      <workItem from="1557970318507" duration="3527000" />
+      <workItem from="1557990839271" duration="1390000" />
+      <workItem from="1557994140823" duration="642000" />
+      <workItem from="1558015252145" duration="48000" />
+      <workItem from="1558015322901" duration="37000" />
+      <workItem from="1558015370481" duration="4490000" />
+      <workItem from="1558054323458" duration="19924000" />
+      <workItem from="1558079078156" duration="519000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1553940201631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553940201631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1554169009732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554169009732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add shopping">
+      <created>1554218387763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554218387763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add shopping">
+      <created>1554218692891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554218692891</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update all file!">
+      <created>1554218816083</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554218816083</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add day03-test.py file">
+      <created>1554218994260</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554218994260</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add day03-test.py file change-01">
+      <created>1554219174817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554219174817</updated>
+    </task>
+    <task id="LOCAL-00008" summary="shopping--01">
+      <created>1554269215271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554269215272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Use pipenv&#10;pipenv install --dev #import project depend">
+      <created>1554342822979</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554342822979</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finish">
+      <created>1554360778162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554360778162</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finish-20190404-01">
+      <created>1554361357521</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554361357521</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finish-20190404-02&#10;修改备注信息">
+      <created>1554384230137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554384230137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第二周--001&#10;修改备注信息">
+      <created>1555147271994</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555147271994</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第三周--作业提交-001">
+      <created>1555255928840</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555255928840</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第三周--作业提交-002-做到12题">
+      <created>1555428902436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555428902436</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第4周--上课记录内容">
+      <created>1555761798333</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555761798333</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第4周--作业至第5题,未完成...">
+      <created>1555926543731</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555926543732</updated>
+    </task>
+    <task id="LOCAL-00018" summary="第4周--练已完成...下一步完成作业">
+      <created>1555991624545</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555991624545</updated>
+    </task>
+    <task id="LOCAL-00019" summary="第4周--完成作业">
+      <created>1556099030738</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556099030738</updated>
+    </task>
+    <task id="LOCAL-00020" summary="第5周--临时上传-001">
+      <created>1556333352553</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556333352553</updated>
+    </task>
+    <task id="LOCAL-00021" summary="第5周--作业完成-001">
+      <created>1557049431459</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557049431459</updated>
+    </task>
+    <task id="LOCAL-00022" summary="第5周--爬取招标网-未完成">
+      <created>1557159523399</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557159523399</updated>
+    </task>
+    <task id="LOCAL-00023" summary="第6周--练习1">
+      <created>1557824940306</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557824940306</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="390616000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1455" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13528991" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32669982" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39846155" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32642487" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32469776" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016026" side_tool="true" weight="0.36923078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32469776" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32469776" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49839744" visible="true" weight="0.2728532" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3292204" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3292204" />
+      <window_info anchor="right" x="0" y="0" width="410" height="896" id="Documentation" order="5" show_stripe_button="false" side_tool="true" weight="0.3283713" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20157255" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32669982" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39846155" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3276923" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32504147" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016026" side_tool="true" weight="0.36923078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32504147" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32622603" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3292204" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3292204" />
+      <window_info anchor="right" x="0" y="0" width="410" height="896" id="Documentation" order="5" side_tool="true" weight="0.32895887" />
+      <window_info anchor="right" id="Run" order="6" sideWeight="0.49839744" weight="0.32451752" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Pipfile" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="add shopping" />
+    <MESSAGE value="update all file!" />
+    <MESSAGE value="add day03-test.py file" />
+    <MESSAGE value="add day03-test.py file change-01" />
+    <MESSAGE value="shopping--01" />
+    <MESSAGE value="Use pipenv&#10;pipenv install --dev #import project depend" />
+    <MESSAGE value="finish" />
+    <MESSAGE value="finish-20190404-01" />
+    <MESSAGE value="finish-20190404-02&#10;修改备注信息" />
+    <MESSAGE value="第二周--001&#10;修改备注信息" />
+    <MESSAGE value="第三周--作业提交-001" />
+    <MESSAGE value="第三周--作业提交-002-做到12题" />
+    <MESSAGE value="第4周--上课记录内容" />
+    <MESSAGE value="第4周--作业至第5题,未完成..." />
+    <MESSAGE value="第4周--练已完成...下一步完成作业" />
+    <MESSAGE value="第4周--完成作业" />
+    <MESSAGE value="第5周--临时上传-001" />
+    <MESSAGE value="第5周--作业完成-001" />
+    <MESSAGE value="第5周--爬取招标网-未完成" />
+    <MESSAGE value="第6周--练习1" />
+    <option name="LAST_COMMIT_MESSAGE" value="第6周--练习1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556607760122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1557197881095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy__1_.coverage" NAME="scrapy (1) Coverage Results" MODIFIED="1557537702580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
+    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1557481797581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test_tkinter.coverage" NAME="test_tkinter Coverage Results" MODIFIED="1557209363002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
+    <SUITE FILE_PATH="coverage/python26season$school.coverage" NAME="school Coverage Results" MODIFIED="1558069195083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1557037057189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1557571446799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
+    <SUITE FILE_PATH="coverage/python26season$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1558079567626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day03/homework/shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="167" column="40" lean-forward="true" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="325" lean-forward="true" selection-start-line="325" selection-end-line="325" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python26season-0ZOlOzVe/Lib/functools.py" />
+    <entry file="file://$PROJECT_DIR$/day04/homework/exec_function_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/homework/log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/homework/register">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="130" column="24" lean-forward="true" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/test/func1" />
+    <entry file="file://$PROJECT_DIR$/day05/test/func2" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376">
+          <caret line="304" lean-forward="true" selection-start-line="304" selection-end-line="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python26season-0ZOlOzVe/Lib/site-packages/bs4/element.py" />
+    <entry file="file://$PROJECT_DIR$/day05/test/scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python26season-7J-DwdQB/Lib/random.py" />
+    <entry file="file://$PROJECT_DIR$/day05/code/07 random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/12 sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/homework/insert_dir/insert_file">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/11 os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/homework/calculator.py" />
+    <entry file="file://$PROJECT_DIR$/day05/homework/Latest_movices_2019" />
+    <entry file="file://$PROJECT_DIR$/day05/homework/singer.dat" />
+    <entry file="file://$PROJECT_DIR$/day05/code/09 pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/10  json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="139" column="11" lean-forward="true" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/13 re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/homework/Latest_movices_2019.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/jd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#23#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/生成器笔试题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="226" column="49" selection-start-line="226" selection-start-column="49" selection-end-line="226" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/homework/blog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="193" column="29" lean-forward="true" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+          <folding>
+            <element signature="e#457#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/test/py_exe.py" />
+    <entry file="file://$PROJECT_DIR$/day06/test/111.reg" />
+    <entry file="file://E:/python36/Lib/tkinter/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/HighLevel/《卓某同学》第1章·day01-Python基础[第1次]/user_login_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/HighLevel/《abel同学》第1章·day01-Python基础[第1次]/day_1/day1_exercises.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="134" column="23" lean-forward="true" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/homework/scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="104" lean-forward="true" selection-end-line="108" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/HighLevel/《lwm23同学》第1章·day05-模块[第1次]/lwm-day005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="133" column="33" lean-forward="true" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/HighLevel/《will同学》第1章·day05-模块[第1次]/第五周作业.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1905">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/code/04 Counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/test/getwebsite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/04 面向对象01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/09 多台.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/school.py" />
+    <entry file="file://$PROJECT_DIR$/day06/code/11 依赖关系.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/01 今日内容大纲">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="453" column="31" selection-start-line="453" selection-start-column="31" selection-end-line="453" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/homework/school.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4009">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

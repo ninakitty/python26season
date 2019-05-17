@@ -1,0 +1,7 @@
+zhangsan,a123456,10000
+lisi,b123456,0
+wangwu,c123456,0
+zennu,d123456,0
+sunm,z123456,19990
+abc,z123,0
+qwe,qwe123,0
