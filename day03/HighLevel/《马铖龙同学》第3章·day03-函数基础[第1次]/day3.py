@@ -64,7 +64,7 @@
 #     print(args,kwargs)
 #
 #
-# info(1,2,3,4,a = "test1",b="test2")
+# info(1,2,3,4,a = "test",b="test2")
 # info(*a,**b)
 # with open(r"a1.txt",mode="r",encoding="utf-8") as f:
 #    l = []

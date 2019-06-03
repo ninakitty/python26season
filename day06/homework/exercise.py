@@ -401,54 +401,59 @@ class Student(Class):  # 学员
         print(f'{self.name}由{self.class_obj.class_num}转到了{new_cls.class_num}')
 
 
-print("新建学校".center(50, '-'))
-school = School('新东方总部', '北京', 10000)
-branch_school = BranchSchool('新东方天津', '天津', school, 5000)
-print("新建课程".center(50, '-'))
-# 1. 有多个课程，课程要有定价
-english_course = Course('英语初级', 80, {'第一阶段': ['介绍', '初级英语'], '第二阶段': ['中级英语', '高级英语']})
-high_course = Course('英语高级', 70, {'第一阶段': ['介绍', '初级数学'], '第二阶段': ['中级数学', '高级数学']})
-# 2. 有多个班级，班级跟课程有关联
-print("新建班级".center(50, '-'))
-english_class1 = Class("英语初级1班", english_course, school)
-english_class2 = Class('英语初级2班', english_course, school)
-high_class1 = Class('英语高级1班', high_course, branch_school)
-high_class2 = Class('英语高级2班', high_course, branch_school)
-# 3. 有多个学⽣，学⽣报名班级，交这个班级对应的课程的费⽤
-print("新建学生".center(50, '-'))
-stu1 = Student('刘一', 20, '初中', english_class1, 200)
-stu1.pay_tuition()
-stu2 = Student('陈二', 30, '高中', english_class2, 300)
-stu2.pay_tuition()
-stu3 = Student('张三', 40, '大学', english_class2, 400)
-stu3.pay_tuition()
+def main():
+    print("新建学校".center(50, '-'))
+    school = School('新东方总部', '北京', 10000)
+    branch_school = BranchSchool('新东方天津', '天津', school, 5000)
+    print("新建课程".center(50, '-'))
+    # 1. 有多个课程，课程要有定价
+    english_course = Course('英语初级', 80, {'第一阶段': ['介绍', '初级英语'], '第二阶段': ['中级英语', '高级英语']})
+    high_course = Course('英语高级', 70, {'第一阶段': ['介绍', '初级数学'], '第二阶段': ['中级数学', '高级数学']})
+    # 2. 有多个班级，班级跟课程有关联
+    print("新建班级".center(50, '-'))
+    english_class1 = Class("英语初级1班", english_course, school)
+    english_class2 = Class('英语初级2班', english_course, school)
+    high_class1 = Class('英语高级1班', high_course, branch_school)
+    high_class2 = Class('英语高级2班', high_course, branch_school)
+    # 3. 有多个学⽣，学⽣报名班级，交这个班级对应的课程的费⽤
+    print("新建学生".center(50, '-'))
+    stu1 = Student('刘一', 20, '初中', english_class1, 200)
+    stu1.pay_tuition()
+    stu2 = Student('陈二', 30, '高中', english_class2, 300)
+    stu2.pay_tuition()
+    stu3 = Student('张三', 40, '大学', english_class2, 400)
+    stu3.pay_tuition()
 
-stu4 = Student('李四', 20, '初中', high_class1, 200)
-stu4.pay_tuition()
-stu5 = Student('王五', 30, '高中', high_class2, 300)
-stu5.pay_tuition()
-stu6 = Student('赵六', 40, '大学', high_class2, 400)
-stu6.pay_tuition()
-# 4. 有多个⽼师，可以分布在不同校区，上不同班级的课
-print("新建老师".center(50, '-'))
-teacher1 = Teach('王老师', 50, '高级', 200, '总经办', school)
-teacher2 = Teach('李老师', 50, '高级', 100, '总经办', school)
-teacher3 = Teach('张天老师', 50, '高级', 150, '总经办', branch_school)
-teacher4 = Teach('孙老师', 50, '高级', 220, '总经办', branch_school)
+    stu4 = Student('李四', 20, '初中', high_class1, 200)
+    stu4.pay_tuition()
+    stu5 = Student('王五', 30, '高中', high_class2, 300)
+    stu5.pay_tuition()
+    stu6 = Student('赵六', 40, '大学', high_class2, 400)
+    stu6.pay_tuition()
+    # 4. 有多个⽼师，可以分布在不同校区，上不同班级的课
+    print("新建老师".center(50, '-'))
+    teacher1 = Teach('王老师', 50, '高级', 200, '总经办', school)
+    teacher2 = Teach('李老师', 50, '高级', 100, '总经办', school)
+    teacher3 = Teach('张天老师', 50, '高级', 150, '总经办', branch_school)
+    teacher4 = Teach('孙老师', 50, '高级', 220, '总经办', branch_school)
 
-# 5. 有多个员⼯，可以分布在不同校区在总部可以统计各校区的账户余额、员⼯⼈数、学员⼈数
-print("新建员工".center(50, '-'))
-staff1 = Staff('王强', 20, '经理', 50, '财务', school)
-staff2 = Staff('李丁', 30, '员工', 20, '财务', branch_school)
-print("查询各校区余额".center(50, '-'))
-school.display_money()  # 获取各校区余额
-print("查询各校区员工".center(50, '-'))
-school.count_staff_num()  # 获取员工人员
-print("查询各校区学员".center(50, '-'))
-school.count_stu_num()  # 获取学员人数
+    # 5. 有多个员⼯，可以分布在不同校区在总部可以统计各校区的账户余额、员⼯⼈数、学员⼈数
+    print("新建员工".center(50, '-'))
+    staff1 = Staff('王强', 20, '经理', 50, '财务', school)
+    staff2 = Staff('李丁', 30, '员工', 20, '财务', branch_school)
+    print("查询各校区余额".center(50, '-'))
+    school.display_money()  # 获取各校区余额
+    print("查询各校区员工".center(50, '-'))
+    school.count_staff_num()  # 获取员工人员
+    print("查询各校区学员".center(50, '-'))
+    school.count_stu_num()  # 获取学员人数
 
-# 6. 学⽣可以转校、退学
-print("学员退学".center(50, '-'))
-english_class1.drop_out(stu1)
-print("学员转校".center(50, '-'))
-stu2.change_school(high_class1)
+    # 6. 学⽣可以转校、退学
+    print("学员退学".center(50, '-'))
+    english_class1.drop_out(stu1)
+    print("学员转校".center(50, '-'))
+    stu2.change_school(high_class1)
+
+
+if __name__ == '__main__':
+    main()

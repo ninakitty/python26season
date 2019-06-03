@@ -1,0 +1,397 @@
+# 昨日内容回顾
+
+## 网络编程
+
+```
+socket
+osi七层协议
+tcp udp 传输层的两个常用协议
+tcp:面向连接的,可靠的,消息格式是面向流的
+udp:面向无连接的,不可靠的,消息格式是面向包的
+
+```
+
+#### tcp和udp协议的socket
+
+```
+服务端
+import socket
+
+server = socket.socket()
+server.bind(('127.0.0.1',8001))
+
+server.listen()
+
+conn,addr = server.accept()
+
+from_client_msg = conn.recv(1024)
+print(from_client_msg)
+conn.send(b'hello')
+
+conn.close()
+server.close()
+
+客户端
+import socket
+client = socket.socket()
+
+client.connect(('127.0.0.1',8001))
+
+client.send(b'haha')
+from_server_msg = client.recv(1024)
+print(from_server_msg)
+client.close()
+
+
+#################################
+udp协议下的socket
+服务端:
+import socket
+server = socket.socket(type=socket.SOCK_DGRAM)
+server.bind(('127.0.0.1',8001))
+msg,client_addr = server.recvfrom(1024)
+print(msg)
+server.sendto(b'hello',client_addr)
+
+客户端
+import socket
+client = socket.socket(type=socket.SOCK_DGRAM)
+client.sendto(b'hehe',('127.0.0.1',8001))
+msg,server_addr = client.recvfrom(1024)
+print(msg)
+
+```
+
+
+
+#### tcp的黏包
+
+```python
+!.两个连续发送的小的数据包会被连在一起发送
+2.第一次发送的数据比较大,2000B,如果我另外一端接受数据时,不知道发送来的数据有多大,那么我可能写了一个recv1024,第二次再接受另外一端发送的第二个数据的时候,就会发现,第一次的剩余数据也会被接收到
+
+解决方法,发送数据前,先发送数据的长度
+struct 打包模块
+ret = struct.pack('i',len(信息)) --- 4个bytes数据,长度为4
+send(ret)   ----  recv(4)  ---- len_ret = struct.unpack('i',recv(4))[0] --recv(len_ret)
+
+```
+
+#### 缓冲区:
+
+```
+输入缓冲区  和  输出缓冲区
+```
+
+subprocess模块
+
+```
+conn = subprocess.Popen(
+	cmd,
+	shell=True,
+	stdout = subprocess.PIPE,
+	stderr = subprocess.PIPE
+)
+conn.stdout.read().decode('gbk')
+conn.stderr.read().decode('gbk')
+
+```
+
+
+
+#### socketserver
+
+```
+import socketserver
+class MyServer(socketserver.BaseRequestHandler):
+    def handle(self):
+        while 1:
+            from_client_msg = self.request.recv(1024)  # conn
+            print(from_client_msg.decode('utf-8'))
+            msg = input('to_client_msg>>>')
+            self.request.send(msg.encode('utf-8'))
+
+if __name__ == '__main__':
+    ip_port = ('127.0.0.1',8001)
+    server = socketserver.ThreadingTCPServer(ip_port,MyServer)
+    server.serve_forever()
+
+```
+
+
+
+# 今日内容总结
+
+## 进程 线程  协程
+
+
+
+```
+并发:伪并行,遇到IO,帮我们提高代码执行效率
+并行:真正的同时运行,多核cpu
+
+```
+
+
+
+#### 进程:
+
+##### 父进程和子进程
+
+```
+os.getpid()当前进程的id,getppid()父进程的id
+```
+
+##### 创建进程的两种方式:
+
+```python
+方式1:
+	from multiprocessing import Process
+	def f(n)
+		print(n)
+
+	if __name__ == '__main__':
+		p = Process(target=f,args=(1,))
+		p.daemon = True
+		p.start()
+		p.join()  #主进程等待子进程
+
+方式2:
+	from multiprocessing import Process
+
+    class MyProcess(Process):
+
+        def __init__(self,n):
+            self.n = n
+            super().__init__()
+
+        #这是需要执行的代码逻辑
+        def run(self):
+            print(self.n)
+            self.f2()
+            print('xxxxxx')
+        def f2(self):
+            xxxx
+
+    if __name__ == '__main__':
+        p = MyProcess(20)
+        p.start()
+        print('主进程结束')
+
+
+```
+
+
+
+进程三状态:
+
+```
+就绪  运行  阻塞
+
+```
+
+
+
+#### 进程间通信(IPC)
+
+##### 队列
+
+```python
+from multiprocessing import Process,Queue
+q = Queue(3)  #3个长度的队列
+q.put(1)   #如果满了,阻塞程序
+q.get()    #如果没了,阻塞程序
+q.qsize()  #统计一下当前队列里面有多少个数据了
+q.empty()  #是否为空,不可信
+q.full()   #是否满了,不可信
+q.put_nowait('a')  #如果满了就报错,不等待
+q.get_nowait() #如果没了就报错,不等待
+
+```
+
+进程通过队列通信:
+
+```python
+from multiprocessing import Process,Queue
+def f1(q):
+    ret = q.get()
+    print('子进程的ret>>',ret)
+
+if __name__ == '__main__':
+    q = Queue(3)
+    q.put('你好')
+    p = Process(target=f1,args=(q,))
+    p.start()
+
+```
+
+
+
+### 线程
+
+创建线程的两种方式
+
+```python
+方式1
+from threading import Thread
+def f1(n):
+	pass
+
+if __name__ == '__main__':
+	t = Thread(target=f,args=(1,))
+	t.daemon = True  #守护线程
+	t.start()
+	t.join()
+方式2:
+class MyThread(Thread):
+	def __init(self,n):
+		super().__init__()
+		self.n = n
+	def run(self):
+		print(self.n)
+		pass
+if __name__ == '__main__':
+	t = MyThread('aa')
+	t.start()
+
+
+```
+
+
+
+##### 守护线程和守护进程的区别
+
+```
+守护进程:随着主进程的代码执行结束,而结束
+守护线程:随着所有非守护线程的执行结束而结束
+
+```
+
+
+
+#### 锁
+
+互斥锁  Lock
+
+```python
+作用:多线程或者多进程在操作共享数据的时候,会出现数据混乱的问题,加锁处理,牺牲了效率,保证了安全.
+from threading import Thread,Lock
+from multiprocessing import Process,Lock
+def f1(loc):
+	loc.acquire()
+	xxxx
+	loc.release()
+
+	with loc:
+		xxxxx
+
+loc = Lock()
+t = Thread(target=f1,args=(loc,))
+t.start()
+
+
+```
+
+
+
+递归锁 RLock
+
+```python
+死锁现象,内部维护了一个计数器
+from threading import Thread,RLock
+from multiprocessing import Process,RLock
+
+loc = RLock()
+t = Thread(target=f1,args=(loc,))
+t.start()
+
+
+```
+
+
+
+线程队列:
+
+```python
+import queue
+#先进先出的
+q = queue.Queue(4)
+...
+#先进后出的
+q = queue.LifoQueue(4)
+#优先级的
+q = queue.PriorityQueue(4)
+q.put((1,'xx'))  #数字越小,优先级越高,越早被取出
+q.get() -- (1,'xx')
+如果优先级数字相同,后面的值类型不能不一样,而且两个字典也不能比
+
+```
+
+
+
+线程池和进程池
+
+```python
+from concurrent.futures import ThreadPoolExecutor,ProcessPoolExecutor
+#线程池ThreadPoolExecutor
+#进程池ProcessPoolExecutor
+
+def f1(n,m)
+	pass
+	return n*n
+
+def call_back(m):  m.result()--n*n
+	print(m) #结果集对象
+	print(m.result())
+
+pool = ThreadPoolExecutor(max_workers=5)
+pool = ProcessPoolExecutor(max_workers=5)
+ret = pool.submit(f1,1,2)
+ret.result()  #类似join,拿不到结果就阻塞程序
+pool.shutdown()  #关闭池子
+pool.submit(f1,1,2).add_done_callback(call_back)
+
+
+```
+
+### 协程
+
+```python
+gevent --- 基于greenlet模块
+def f1(n):
+	pass
+def f2(n):
+	pass
+g1 = gevent.spawn(f1,1)
+g2 = gevent.spawn(f2,1)
+g1.join() #一个一个的join
+gevent.joinall([g1,g2])
+print('主任务')
+
+
+
+```
+
+参考博客:
+
+```python
+进程:https://www.cnblogs.com/clschao/articles/9629392.html
+线程:https://www.cnblogs.com/clschao/articles/9684694.html
+协程:https://www.cnblogs.com/clschao/articles/9712056.html
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

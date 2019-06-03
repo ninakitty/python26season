@@ -5,8 +5,139 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c49a3d9-2d33-49c2-a882-0c6a394ba80b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/Day6练习.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/courseinfo.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/lianjia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/selectcourse3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/studentinfo.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/studentname.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/userinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/HighLevel/Day6linsenquan2018/类的关系(选课操作).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/01 今日内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/02 作业.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/03 模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/04 type,isinstance,issubclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/05 函数和方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/06 反射.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/07 约束.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/08 继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/09 特殊成员.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/10 异常处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/11 property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/12 包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/13 md5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/14 日志.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/admin/alex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/daniu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/api/policy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/api/versions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/cmd/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/cmd/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/glance/db/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/l1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/l2.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/code/x1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/choose_course_system.eddx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/construct_map.vsdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/day07.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/file_a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/file_b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/x1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/homework/课程选择图.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test/daniu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/课件/18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/课件/19.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/课件/20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/课件/24.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/课件/25.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/00 内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/01 初识socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/02 socket客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/02 socket服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/03 udp客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/03 udp服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/04 tcp_socket2号技师.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/04 tcp_socket客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/04 tcp_socket服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/05 udpqq聊天客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/05 udpqq聊天客户端2号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/05 udpqq聊天服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/06 黏包现象1socket客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/06 黏包现象1socket服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/07 黏包现象2socket客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/07 黏包现象2socket服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/08 解决黏包方法2socket服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/08 解决黏包的办法1socket客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象客户端3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象客户端4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象客户端5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 recv的一个现象服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/09 subprocess模块简单使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/10 socketserver版客户端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/10 socketserver版客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/10 socketserver版服务端.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/code/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/ftp_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/ftp_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/结构图.eddx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/homework/结构图.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/test/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/test/get_ip_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/test/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/课件/网络编程之socket.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/00 内容大纲" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/01 进程的创建方式1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/02 进程的创建方式2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/03 多进程爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/04 守护进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/05 进程队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/06 进程队列简单应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/07 线程的创建方式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/08 线程和进程的效率对比.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/09 线程共享同一进程的数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/10 死锁现象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/11 线程队列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/12 多线程执行计算密集型任务的一个测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/13 线程池和进程池.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/14 回调函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/15 守护线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/16 协程gevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/meinv1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/meinv2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/code/meinv3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/课件/Python之线程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/课件/Python之进程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/课件/python之协程.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python26season.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python26season.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/HighLevel/《吴志盛同学》第3章·day03-函数基础[第1次]/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/HighLevel/《吴志盛同学》第3章·day03-函数基础[第1次]/day3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/HighLevel/《马铖龙同学》第3章·day03-函数基础[第1次]/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day03/HighLevel/《马铖龙同学》第3章·day03-函数基础[第1次]/day3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day06/homework/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/day06/homework/exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/homework/周末班面向对象大作业.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/day06/homework/周末班面向对象大作业.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,36 +174,11 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python26season" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day06/homework/exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1349">
-              <caret line="397" column="43" lean-forward="true" selection-start-line="397" selection-start-column="43" selection-end-line="397" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06/homework/school.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="45" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06/test/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4009">
-              <caret line="211" selection-start-line="211" selection-end-line="211" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,6 +190,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>useris</find>
+      <find>try</find>
+      <find>输入错误</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -96,19 +204,12 @@
       <GitPushTagMode />
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day08/homework/user.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework/login.py" />
-        <option value="$PROJECT_DIR$/day01/test/test.py" />
-        <option value="$PROJECT_DIR$/day01/homework/login.py" />
-        <option value="$PROJECT_DIR$/day01/homework/exercise.py" />
-        <option value="$PROJECT_DIR$/day02/homework/shopping.py" />
-        <option value="$PROJECT_DIR$/day02/test/test.py" />
-        <option value="$PROJECT_DIR$/day03/test/文本文件.txt" />
-        <option value="$PROJECT_DIR$/day03/test/fruit.txt" />
-        <option value="$PROJECT_DIR$/day03/test/haha.txt" />
-        <option value="$PROJECT_DIR$/day03/homework/a1.txt" />
         <option value="$PROJECT_DIR$/day02/homework/exercise.py" />
         <option value="$PROJECT_DIR$/day03/homework/student_msg" />
         <option value="$PROJECT_DIR$/day03/test/test.py" />
@@ -137,14 +238,37 @@
         <option value="$PROJECT_DIR$/day05/homework/exercise.py" />
         <option value="$PROJECT_DIR$/day05/HighLevel/《lwm23同学》第1章·day05-模块[第1次]/lwm-day005.py" />
         <option value="$PROJECT_DIR$/day06/test/test.py" />
+        <option value="$PROJECT_DIR$/day07/test/module.py" />
+        <option value="$PROJECT_DIR$/day07/test/daniu.py" />
+        <option value="$PROJECT_DIR$/day07/test/test.py" />
+        <option value="$PROJECT_DIR$/day07/homework/file_a.txt" />
+        <option value="$PROJECT_DIR$/day07/homework/x1.txt" />
         <option value="$PROJECT_DIR$/day06/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day07/code/10 异常处理.py" />
+        <option value="$PROJECT_DIR$/day07/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day08/test/server.py" />
+        <option value="$PROJECT_DIR$/day08/test/client.py" />
+        <option value="$PROJECT_DIR$/day08/code/内容大纲" />
+        <option value="$PROJECT_DIR$/day08/homework/exercise.py" />
+        <option value="$PROJECT_DIR$/day08/test/get_ip_server.py" />
+        <option value="$PROJECT_DIR$/day08/test/test.py" />
+        <option value="$PROJECT_DIR$/day08/homework/user.py" />
+        <option value="$PROJECT_DIR$/day08/homework/home/1/123" />
+        <option value="$PROJECT_DIR$/day08/homework/home/readme.txt" />
+        <option value="$PROJECT_DIR$/day08/homework/readme.txt" />
+        <option value="$PROJECT_DIR$/day08/homework/tools.py" />
+        <option value="$PROJECT_DIR$/day08/homework/ftp_client.py" />
+        <option value="$PROJECT_DIR$/day08/homework/ftp_server.py" />
+        <option value="$PROJECT_DIR$/day09/test.py" />
+        <option value="$PROJECT_DIR$/day09/code/00 内容大纲" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="21" />
-    <option name="width" value="1380" />
-    <option name="height" value="879" />
+    <option name="x" value="571" />
+    <option name="y" value="1" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -162,23 +286,6 @@
               <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
               <item name="python26season" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,26 +295,26 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day09/课件" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Python Code\python26season\day02" />
-      <recent name="E:\Python Code\python26season\day01" />
-      <recent name="E:\Python Code\python26season\day06\课件" />
-      <recent name="D:\Python Code\python26season\day03\homework" />
-      <recent name="$PROJECT_DIR$/day02/code" />
+      <recent name="E:\Seafile\Python Code\python26season\day09\课件" />
+      <recent name="$PROJECT_DIR$/day08/homework" />
+      <recent name="E:\Seafile\Python Code\python26season\day08\code" />
+      <recent name="E:\Seafile\Python Code\python26season\day07\homework" />
+      <recent name="E:\Seafile\Python Code\python26season\day06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Python Code\python26season\day06\homework" />
-      <recent name="E:\Python Code\python26season" />
-      <recent name="E:\Python Code\python26season\day05\homework" />
-      <recent name="D:\Python Code\python26season\day05\code" />
-      <recent name="D:\Python Code\python26season\day05\课件" />
+      <recent name="E:\Seafile\Python Code\python26season\day09\test" />
+      <recent name="E:\Seafile\Python Code\python26season\day09\code" />
+      <recent name="E:\Seafile\Python Code\python26season\day08\homework" />
+      <recent name="E:\Seafile\Python Code\python26season\day08\homework\home" />
+      <recent name="E:\Seafile\Python Code\python26season\day08\课件" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,8 +329,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise">
-    <configuration name="exercise (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="ftp_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python26season" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +338,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/homework/exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/homework/ftp_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ftp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python26season" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,12 +360,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/homework/exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/homework/ftp_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="school" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python26season" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,12 +382,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/homework/school.py" />
+      <option name="SCRIPT_NAME" value="E:\Seafile\Python Code\python26season\day09\test\test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +396,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scrapy (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python26season" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,12 +404,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05/homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/homework/scrapy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/test/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +418,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python26season" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,12 +426,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day06/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day08/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day06/test/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day08/homework/tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,19 +441,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.exercise" />
-      <item itemvalue="Python.exercise (1)" />
-      <item itemvalue="Python.scrapy (1)" />
-      <item itemvalue="Python.test (2)" />
-      <item itemvalue="Python.school" />
+      <item itemvalue="Python.ftp_server" />
+      <item itemvalue="Python.tools" />
+      <item itemvalue="Python.ftp_client" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise" />
-        <item itemvalue="Python.school" />
-        <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.scrapy (1)" />
-        <item itemvalue="Python.exercise (1)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.ftp_client" />
+        <item itemvalue="Python.ftp_server" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.tools" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +580,41 @@
       <workItem from="1558015322901" duration="37000" />
       <workItem from="1558015370481" duration="4490000" />
       <workItem from="1558054323458" duration="19924000" />
-      <workItem from="1558079078156" duration="743000" />
+      <workItem from="1558079078156" duration="1470000" />
+      <workItem from="1558141710549" duration="7989000" />
+      <workItem from="1558223352044" duration="874000" />
+      <workItem from="1558316201108" duration="8204000" />
+      <workItem from="1558401190279" duration="4778000" />
+      <workItem from="1558410526817" duration="5515000" />
+      <workItem from="1558425203675" duration="469000" />
+      <workItem from="1558425834589" duration="1801000" />
+      <workItem from="1558488822638" duration="6936000" />
+      <workItem from="1558502241685" duration="7026000" />
+      <workItem from="1558518470992" duration="4571000" />
+      <workItem from="1558533667351" duration="145000" />
+      <workItem from="1558533822007" duration="153000" />
+      <workItem from="1558533985046" duration="66000" />
+      <workItem from="1558534060368" duration="213000" />
+      <workItem from="1558534283169" duration="1395000" />
+      <workItem from="1558535748429" duration="1917000" />
+      <workItem from="1558537868184" duration="69000" />
+      <workItem from="1558576959040" duration="14579000" />
+      <workItem from="1558607451277" duration="15929000" />
+      <workItem from="1558658523471" duration="10555000" />
+      <workItem from="1558751286288" duration="1810000" />
+      <workItem from="1558925407151" duration="5713000" />
+      <workItem from="1559007434943" duration="6697000" />
+      <workItem from="1559014638502" duration="13072000" />
+      <workItem from="1559047880030" duration="9963000" />
+      <workItem from="1559114256011" duration="16000" />
+      <workItem from="1559135339824" duration="9535000" />
+      <workItem from="1559186148386" duration="3190000" />
+      <workItem from="1559221607816" duration="12266000" />
+      <workItem from="1559281771729" duration="4361000" />
+      <workItem from="1559306395815" duration="15774000" />
+      <workItem from="1559352125662" duration="118000" />
+      <workItem from="1559352438007" duration="22436000" />
+      <workItem from="1559535325146" duration="4616000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1553940201631</created>
@@ -643,11 +784,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558079653948</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="第6周--完成作业">
+      <created>1558079828944</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1558079828944</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390840000" />
+    <option name="totallyTimeSpent" value="594318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,13 +808,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13528991" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49604744" visible="true" weight="0.23550466" />
+      <window_info id="Structure" order="1" sideWeight="0.50395256" side_tool="true" weight="0.2252994" />
+      <window_info id="Favorites" order="2" sideWeight="0.5034325" side_tool="true" weight="0.2252994" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32669982" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3227147" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39846155" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -675,9 +822,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32469776" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016026" side_tool="true" weight="0.36923078" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32469776" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32409972" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32469776" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49839744" visible="true" weight="0.2728532" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49839744" visible="true" weight="0.43767312" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -685,30 +832,6 @@
       <window_info anchor="right" id="SciView" order="4" weight="0.3292204" />
       <window_info anchor="right" x="0" y="0" width="410" height="896" id="Documentation" order="5" show_stripe_button="false" side_tool="true" weight="0.3283713" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20157255" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32669982" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39846155" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.3276923" />
-      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32504147" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5016026" side_tool="true" weight="0.36923078" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32504147" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32622603" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3292204" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.3292204" />
-      <window_info anchor="right" x="0" y="0" width="410" height="896" id="Documentation" order="5" side_tool="true" weight="0.32895887" />
-      <window_info anchor="right" id="Run" order="6" sideWeight="0.49839744" weight="0.32451752" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -752,292 +875,294 @@
     <option name="LAST_COMMIT_MESSAGE" value="第6周--完成作业" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556607760122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
-    <SUITE FILE_PATH="coverage/python26season$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1557197881095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
+    <SUITE FILE_PATH="coverage/python26season$server.coverage" NAME="server Coverage Results" MODIFIED="1558751804123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
+    <SUITE FILE_PATH="coverage/python26season$10_.coverage" NAME="10 异常处理 Coverage Results" MODIFIED="1558490841729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/code" />
+    <SUITE FILE_PATH="coverage/python26season$get_ip_server.coverage" NAME="get_ip_server Coverage Results" MODIFIED="1559049659721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
     <SUITE FILE_PATH="coverage/python26season$scrapy__1_.coverage" NAME="scrapy (1) Coverage Results" MODIFIED="1557537702580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
-    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1557481797581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
-    <SUITE FILE_PATH="coverage/python26season$test_tkinter.coverage" NAME="test_tkinter Coverage Results" MODIFIED="1557209363002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
     <SUITE FILE_PATH="coverage/python26season$school.coverage" NAME="school Coverage Results" MODIFIED="1558069195083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
-    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1557037057189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$test_tkinter.coverage" NAME="test_tkinter Coverage Results" MODIFIED="1557209363002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
     <SUITE FILE_PATH="coverage/python26season$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1557571446799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
-    <SUITE FILE_PATH="coverage/python26season$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1558079567626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1559310934842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
+    <SUITE FILE_PATH="coverage/python26season$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1559375242742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/homework" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556607760122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$tools.coverage" NAME="tools Coverage Results" MODIFIED="1559057535152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1559535746309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/python26season$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1559375239256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/homework" />
+    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1558667397210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/homework" />
+    <SUITE FILE_PATH="coverage/python26season$client.coverage" NAME="client Coverage Results" MODIFIED="1558751903811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
+    <SUITE FILE_PATH="coverage/python26season$module.coverage" NAME="module Coverage Results" MODIFIED="1558151842462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/test" />
+    <SUITE FILE_PATH="coverage/python26season$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1558489776423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day03/homework/shopping.py">
+    <entry file="file://$PROJECT_DIR$/day07/code/14 日志.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="167" column="40" lean-forward="true" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
+        <state relative-caret-position="-720">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day03/homework/exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="325" lean-forward="true" selection-start-line="325" selection-end-line="325" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python26season-0ZOlOzVe/Lib/functools.py" />
-    <entry file="file://$PROJECT_DIR$/day04/homework/exec_function_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04/homework/log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04/homework/register">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+    <entry file="file://$PROJECT_DIR$/day07/homework/x1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/day04/test/test.py">
+    <entry file="file://$PROJECT_DIR$/day07/code/master.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/12  关联关系-一对一.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/13 关联关系- 一对多关系.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="130" column="24" lean-forward="true" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+        <state relative-caret-position="168">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/test/func1" />
-    <entry file="file://$PROJECT_DIR$/day05/test/func2" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+    <entry file="file://$PROJECT_DIR$/day07/code/07 约束.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/homework/construct_map.vsdx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/code/01 今日内容大纲">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376">
-          <caret line="304" lean-forward="true" selection-start-line="304" selection-end-line="304" />
+        <state relative-caret-position="369">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python26season-0ZOlOzVe/Lib/site-packages/bs4/element.py" />
-    <entry file="file://$PROJECT_DIR$/day05/test/scrapy.py">
+    <entry file="file://$PROJECT_DIR$/day07/test/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/test/daniu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="355" column="58" selection-start-line="355" selection-start-column="58" selection-end-line="355" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="42" selection-start-line="42" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/code/10 异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/homework/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/test/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/code/01 初识socket.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/code/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/code/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python26season-eFvyWF8-/Lib/hmac.py" />
+    <entry file="file://$PROJECT_DIR$/day08/code/10 socketserver版服务端.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/code/14 私有内容.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/code/09 特殊成员.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/code/08 解决黏包的办法1socket客户端.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/python26season-7J-DwdQB/Lib/random.py" />
-    <entry file="file://$PROJECT_DIR$/day05/code/07 random.py">
+    <entry file="file://$PROJECT_DIR$/day08/test/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/12 sys.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/homework/insert_dir/insert_file">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/11 os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/homework/calculator.py" />
-    <entry file="file://$PROJECT_DIR$/day05/homework/Latest_movices_2019" />
-    <entry file="file://$PROJECT_DIR$/day05/homework/singer.dat" />
-    <entry file="file://$PROJECT_DIR$/day05/code/09 pickle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/10  json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="139" column="11" lean-forward="true" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
+        <state relative-caret-position="242">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day05/code/13 re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        <state relative-caret-position="-792">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/homework/Latest_movices_2019.json">
+    <entry file="file://$PROJECT_DIR$/day08/code/08 解决黏包方法2socket服务端.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/jd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="264">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#23#45#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/生成器笔试题.py">
+    <entry file="file://$PROJECT_DIR$/day08/test/get_ip_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04/homework/exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="226" column="49" selection-start-line="226" selection-start-column="49" selection-end-line="226" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day04/homework/blog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="193" column="29" lean-forward="true" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#457#468#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06/test/py_exe.py" />
-    <entry file="file://$PROJECT_DIR$/day06/test/111.reg" />
-    <entry file="file://E:/python36/Lib/tkinter/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Pipfile">
+    <entry file="file://$PROJECT_DIR$/day08/code/05 udpqq聊天客户端2号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="198">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day01/HighLevel/《卓某同学》第1章·day01-Python基础[第1次]/user_login_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01/HighLevel/《abel同学》第1章·day01-Python基础[第1次]/day_1/day1_exercises.py">
+    <entry file="file://$PROJECT_DIR$/day08/homework/userlist.db" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1596" />
+        <state relative-caret-position="132">
+          <caret line="526" column="8" selection-start-line="526" selection-start-column="8" selection-end-line="526" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/homework/exercise.py">
+    <entry file="file://$PROJECT_DIR$/day08/code/04 tcp_socket客户端.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/code/04 tcp_socket服务端.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="134" column="23" lean-forward="true" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
+        <state relative-caret-position="-58" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="447" column="16" lean-forward="true" selection-start-line="447" selection-start-column="16" selection-end-line="447" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py" />
+    <entry file="file://$PROJECT_DIR$/day08/homework/111" />
+    <entry file="file://$PROJECT_DIR$/day08/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/homework/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/homework/123" />
+    <entry file="file://$PROJECT_DIR$/day08/homework/home/1/123" />
+    <entry file="file://$PROJECT_DIR$/day09/tupien0.jpg" />
+    <entry file="file://$PROJECT_DIR$/day09/tupien1.jpg" />
+    <entry file="file://$PROJECT_DIR$/day09/tupien2.jpg" />
+    <entry file="file://$PROJECT_DIR$/day08/homework/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/homework/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/homework/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2522">
+          <caret line="135" column="13" lean-forward="true" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/homework/scrapy.py">
+    <entry file="file://$PROJECT_DIR$/day08/homework/ftp_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="104" lean-forward="true" selection-end-line="108" />
+        <state relative-caret-position="330">
+          <caret line="91" column="19" lean-forward="true" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/homework/ftp_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="108" column="51" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/python26season-eFvyWF8-/Lib/site-packages/gevent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3692" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="291" lean-forward="true" selection-start-line="291" selection-end-line="291" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#2486#2528#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/HighLevel/《lwm23同学》第1章·day05-模块[第1次]/lwm-day005.py">
+    <entry file="file://$PROJECT_DIR$/day08/code/00 内容大纲">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="133" column="33" lean-forward="true" selection-start-line="133" selection-start-column="33" selection-end-line="133" selection-end-column="33" />
+        <state relative-caret-position="80">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day05/HighLevel/《will同学》第1章·day05-模块[第1次]/第五周作业.py">
+    <entry file="file://$PROJECT_DIR$/day09/code/00 内容大纲">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1905">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/code/04 Counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/test/getwebsite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/code/04 面向对象01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/code/09 多台.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/school.py" />
-    <entry file="file://$PROJECT_DIR$/day06/code/11 依赖关系.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/code/01 今日内容大纲">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3990">
-          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/homework/exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="397" column="43" lean-forward="true" selection-start-line="397" selection-start-column="43" selection-end-line="397" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/homework/school.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4009">
-          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        <state relative-caret-position="256">
+          <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
         </state>
       </provider>
     </entry>

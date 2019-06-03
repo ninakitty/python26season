@@ -120,7 +120,7 @@ http://www.cnblogs.com/zhaoyunlong/p/8658937.html
 [{'序号':'1','部门':Python,'人数':30,'平均年龄':26,'备注':'单身狗'},......]
 '''
 lis = []
-with open('test1', encoding ='UTF-8',mode='r')as f:
+with open('test', encoding ='UTF-8',mode='r')as f:
     m = f.readline()  #你readline读取后文件指针就会跑到你读取的后面了
     n = m.split()
     for i in f:  #这个时候你在遍历文件就会排除你readline的第一行了

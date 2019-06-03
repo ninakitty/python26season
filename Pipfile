@@ -14,6 +14,8 @@ lxml = "*"
 pywin32 = "*"
 pyinstaller = "*"
 easygui = "*"
+greenlet = "*"
+gevent = "*"
 
 [requires]
 python_version = "3.6"

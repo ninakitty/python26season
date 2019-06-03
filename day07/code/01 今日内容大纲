@@ -1,0 +1,107 @@
+1. 作业
+
+2. 模块
+    一个py文件
+    导入过程:
+        1. 判断模块在内存是否已经存在
+        2. 如果有, 直接引入使用
+        3. 如果没有, 创建一个名称空间. 在名称空间中执行模块中的代码
+        4. 导入模块的名字
+
+
+    导入模块的顺序:
+        1. 内置
+        2. 第三方
+        3. 自定义
+
+    __name__
+        __main__  执行该模块
+        模块名     导入
+
+     sys.path  导入模块的搜索路径. 环境变量
+
+3. issubclass, type, isinstance
+
+    type       返回某对象的类型(类)
+    isinstance 判断xxx东西是否是xxx类型
+    issubclass  判断xxxx是否是xxxx的子类
+
+4. 方法和函数(了解)
+    实例方法:
+        1. 对象.方法   方法
+        2. 类名.方法   函数
+
+    类方法:
+        不论如何调用都是方法
+        类也是对象
+        在python中万事万物皆为对象
+            类也是对象
+            属性: 变量  -> 类变量
+            功能: 方法  -> 类方法
+
+        type 是所有类的根儿
+    静态方法
+        全都是函数
+
+5. 反射(重点)
+     4个内置函数
+     hasattr(obj, str)
+     getattr(obj, str)
+
+     delattr(obj, str)
+     setattr(obj, str, xxx)
+
+
+6. 约束
+    百度项目经理:
+        贴吧
+            1. 普通人员
+            2. 吧务
+            3. 官方人员
+           登录
+
+    在python中, 父类可以对子类进行约束
+
+    1. raise NotImplementedError  代表子类必须重写这个方法
+
+    2. 抽象类 -> 没有具体的实例
+        from abc import ABCMeta, abstractmethod
+        class 类(metaclass = ABCMeta):
+            @abstractmethod
+            def chi(self): pass
+
+7. 继承
+    class A:
+        pass
+    class B(A):
+        pass
+
+    py2:
+        经典类  -> 默认不继承object
+        新式类  -> 默认继承object
+    py3:
+        新式类
+
+        万事万物皆为对象 -> 所有的东西都要继承object
+
+8. 特殊成员
+    __init__    ->   创建对象的时候会自动的调用这个方法
+    __iter__    iter()
+    __new__  重要  开辟内存, 创建对象
+
+9. 异常处理
+
+    try:
+        xxxx
+    except 错误:
+        xxx
+    finally:
+        最终的...
+
+    traceback
+    raise 抛出异常对象
+
+10. 包
+    包内只要存放的是模块
+
+# 路飞上的作业题
