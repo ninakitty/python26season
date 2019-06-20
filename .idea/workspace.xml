@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c49a3d9-2d33-49c2-a882-0c6a394ba80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day09/homework/exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/ftp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/ftp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/homework_readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/结构图.eddx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/homework/结构图.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4c49a3d9-2d33-49c2-a882-0c6a394ba80b" name="Default Changelist" comment="第10周--完成第10周练习">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/code/mysql.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/homework/homework .sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/homework/超老师网页的练习exercise.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10/homework/路飞练习-database.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day08/homework/结构图.eddx" beforeDir="false" afterPath="$PROJECT_DIR$/day08/homework/结构图.eddx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/homework/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/homework/exercise.sql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +52,40 @@
     <favorites_list name="python26season" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day10/homework/homework.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day10/homework/homework .sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pipfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day10/homework/超老师网页的练习exercise.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day04/homework/register" />
-        <option value="$PROJECT_DIR$/day05/test/scrapy.py" />
         <option value="$PROJECT_DIR$/day05/homework/calculator.py" />
         <option value="$PROJECT_DIR$/day05/homework/scrpy.py" />
         <option value="$PROJECT_DIR$/day05/test/test.py" />
@@ -129,7 +154,6 @@
         <option value="$PROJECT_DIR$/day09/homework/exercise.py" />
         <option value="$PROJECT_DIR$/day10/test/test.py" />
         <option value="$PROJECT_DIR$/day09/homework/homework_readme.txt" />
-        <option value="$PROJECT_DIR$/Pipfile" />
         <option value="$PROJECT_DIR$/day09/homework/module.py" />
         <option value="$PROJECT_DIR$/day09/homework/operate.py" />
         <option value="$PROJECT_DIR$/day09/code/03 多进程爬虫.py" />
@@ -141,6 +165,9 @@
         <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/day09/homework/ftp_client.py" />
         <option value="$PROJECT_DIR$/day09/homework/ftp_server.py" />
+        <option value="$PROJECT_DIR$/day10/homework/homework.txt" />
+        <option value="$PROJECT_DIR$/Pipfile" />
+        <option value="$PROJECT_DIR$/day10/homework/homework .sql" />
       </list>
     </option>
   </component>
@@ -167,20 +194,7 @@
             <path>
               <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
               <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python26season" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python26season" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -526,7 +540,9 @@
       <workItem from="1560396206814" duration="10985000" />
       <workItem from="1560475496156" duration="599000" />
       <workItem from="1560565537530" duration="1198000" />
-      <workItem from="1561012523577" duration="1342000" />
+      <workItem from="1561012523577" duration="2243000" />
+      <workItem from="1561035934719" duration="1342000" />
+      <workItem from="1561039912869" duration="1346000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1553940201631</created>
@@ -710,11 +726,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559554915733</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="第10周--完成第10周练习">
+      <created>1561013981001</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1561013981002</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="628982000" />
+    <option name="totallyTimeSpent" value="632571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,9 +749,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="878" extended-state="7" />
+    <frame x="0" y="23" width="1378" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49604744" visible="true" weight="0.30780244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49604744" visible="true" weight="0.31661677" />
       <window_info id="Structure" order="1" sideWeight="0.50395256" side_tool="true" weight="0.2252994" />
       <window_info id="Favorites" order="2" sideWeight="0.5034325" side_tool="true" weight="0.2252994" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -741,7 +764,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32469776" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50250536" side_tool="true" weight="0.60387814" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32409972" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32283464" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32469776" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49749464" weight="0.60387814" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -792,40 +815,32 @@
     <MESSAGE value="第6周--练习1" />
     <MESSAGE value="第6周--完成作业" />
     <MESSAGE value="第10周--完成第10周课件上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="第10周--完成第10周课件上传" />
+    <MESSAGE value="第10周--完成第10周练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第10周--完成第10周练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python26season$10_.coverage" NAME="10 异常处理 Coverage Results" MODIFIED="1558490841729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/code" />
-    <SUITE FILE_PATH="coverage/python26season$server.coverage" NAME="server Coverage Results" MODIFIED="1560302059547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
-    <SUITE FILE_PATH="coverage/python26season$redirect.coverage" NAME="redirect Coverage Results" MODIFIED="1560304310411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
-    <SUITE FILE_PATH="coverage/python26season$08_1socket.coverage" NAME="08 解决黏包的办法1socket客户端 Coverage Results" MODIFIED="1560395416994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/code" />
-    <SUITE FILE_PATH="coverage/python26season$get_ip_server.coverage" NAME="get_ip_server Coverage Results" MODIFIED="1559049659721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
-    <SUITE FILE_PATH="coverage/python26season$scrapy__1_.coverage" NAME="scrapy (1) Coverage Results" MODIFIED="1557537702580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
-    <SUITE FILE_PATH="coverage/python26season$school.coverage" NAME="school Coverage Results" MODIFIED="1558069195083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
-    <SUITE FILE_PATH="coverage/python26season$test_tkinter.coverage" NAME="test_tkinter Coverage Results" MODIFIED="1557209363002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
-    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1559310934842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
-    <SUITE FILE_PATH="coverage/python26season$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1560407894278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/python26season$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1561013670421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
-    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556607760122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
-    <SUITE FILE_PATH="coverage/python26season$tools.coverage" NAME="tools Coverage Results" MODIFIED="1559057535152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/homework" />
     <SUITE FILE_PATH="coverage/python26season$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1559535746309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
-    <SUITE FILE_PATH="coverage/python26season$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1561013668070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
+    <SUITE FILE_PATH="coverage/python26season$server.coverage" NAME="server Coverage Results" MODIFIED="1560302059547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
+    <SUITE FILE_PATH="coverage/python26season$tools.coverage" NAME="tools Coverage Results" MODIFIED="1559057535152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/homework" />
+    <SUITE FILE_PATH="coverage/python26season$10_.coverage" NAME="10 异常处理 Coverage Results" MODIFIED="1558490841729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/code" />
+    <SUITE FILE_PATH="coverage/python26season$redirect.coverage" NAME="redirect Coverage Results" MODIFIED="1560304310411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
     <SUITE FILE_PATH="coverage/python26season$08_2socket.coverage" NAME="08 解决黏包方法2socket服务端 Coverage Results" MODIFIED="1560395415067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/code" />
-    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1558667397210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/homework" />
-    <SUITE FILE_PATH="coverage/python26season$client.coverage" NAME="client Coverage Results" MODIFIED="1560302074199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
     <SUITE FILE_PATH="coverage/python26season$module.coverage" NAME="module Coverage Results" MODIFIED="1558151842462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/test" />
+    <SUITE FILE_PATH="coverage/python26season$client.coverage" NAME="client Coverage Results" MODIFIED="1560302074199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
+    <SUITE FILE_PATH="coverage/python26season$get_ip_server.coverage" NAME="get_ip_server Coverage Results" MODIFIED="1559049659721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
+    <SUITE FILE_PATH="coverage/python26season$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1560407894278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python26season$exercise__1_.coverage" NAME="exercise (1) Coverage Results" MODIFIED="1558667397210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day07/homework" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy.coverage" NAME="scrapy Coverage Results" MODIFIED="1556607760122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/test" />
+    <SUITE FILE_PATH="coverage/python26season$test.coverage" NAME="test Coverage Results" MODIFIED="1559310934842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/test" />
+    <SUITE FILE_PATH="coverage/python26season$school.coverage" NAME="school Coverage Results" MODIFIED="1558069195083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
+    <SUITE FILE_PATH="coverage/python26season$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1561013670421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
+    <SUITE FILE_PATH="coverage/python26season$test_tkinter.coverage" NAME="test_tkinter Coverage Results" MODIFIED="1557209363002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/test" />
     <SUITE FILE_PATH="coverage/python26season$exercise.coverage" NAME="exercise Coverage Results" MODIFIED="1558489776423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06/homework" />
+    <SUITE FILE_PATH="coverage/python26season$scrapy__1_.coverage" NAME="scrapy (1) Coverage Results" MODIFIED="1557537702580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05/homework" />
+    <SUITE FILE_PATH="coverage/python26season$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1561013668070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09/homework" />
+    <SUITE FILE_PATH="coverage/python26season$08_1socket.coverage" NAME="08 解决黏包的办法1socket客户端 Coverage Results" MODIFIED="1560395416994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08/code" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py" />
-    <entry file="file://$PROJECT_DIR$/day08/homework/111" />
-    <entry file="file://$PROJECT_DIR$/day08/test/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day08/homework/user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1342">
@@ -900,9 +915,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pipfile.lock" />
-    <entry file="file://$PROJECT_DIR$/day09/homework/operate.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/homework/operate.py" />
     <entry file="file://$PROJECT_DIR$/day09/code/03 多进程爬虫.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -933,13 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python36/Lib/socketserver.py" />
     <entry file="file://$PROJECT_DIR$/day08/code/01 初识socket.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -950,20 +956,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day09/homework/redirect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day09/homework/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/homework/redirect.py" />
+    <entry file="file://$PROJECT_DIR$/day09/homework/server.py" />
     <entry file="file://$PROJECT_DIR$/day08/code/02 socket客户端.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1042,16 +1036,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day09/homework/module.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day09/homework/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day09/homework/module.py" />
+    <entry file="file://$PROJECT_DIR$/day09/homework/client.py" />
     <entry file="file://$PROJECT_DIR$/day08/homework/exercise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -1111,6 +1097,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/homework/homework.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/homework/超老师网页的练习exercise.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10/homework/homework .sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>

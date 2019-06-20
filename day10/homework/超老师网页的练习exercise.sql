@@ -23,7 +23,7 @@ INSERT INTO student(sid,gender,class_id,sname) VALUES(1, '男', 1, '理解'), (2
 INSERT INTO course VALUES(1, '生物', 1), (2, '物理', 2), (3, '体育', 3), (4, '美术', 2);
 INSERT INTO score VALUES(1, 1, 1, 10),(2, 1, 2, 9),(5, 1, 4, 66),(6, 2, 1, 8),(8, 2, 3, 68),(9, 2, 4, 99),(10, 3, 1, 77),(11, 3, 2, 66),(12, 3, 3, 87),(13, 3, 4, 99),(14, 4, 1, 79),(15, 4, 2, 11),(16, 4, 3, 67),(17, 4, 4, 100),(18, 5, 1, 79),(19, 5, 2, 11),(20, 5, 3, 67),(21, 5, 4, 100),(22, 6, 1, 9),(23, 6, 2, 100),(24, 6, 3, 67),(25, 6, 4, 100),(26, 7, 1, 9),(27, 7, 2, 100),(28, 7, 3, 67),(29, 7, 4, 88),(30, 8, 1, 9),(31, 8, 2, 100),(32, 8, 3, 67),(33, 8, 4, 88),(34, 9, 1, 91),(35, 9, 2, 88),(36, 9, 3, 67),(37, 9, 4, 22),(38, 10, 1, 90),(39, 10, 2, 77),(40, 10, 3, 43),(41, 10, 4, 87),(42, 11, 1, 90),(43, 11, 2, 77),(44, 11, 3, 43),(45, 11, 4, 87),(46, 12, 1, 90),(47, 12, 2, 77),(48, 12, 3, 43),(49, 12, 4, 87),(52, 13, 3, 87);
 
--- 吴超老师网页中的练习题
+-- 超老师网页中的练习题
 -- 1、查询所有的课程的名称以及对应的任课老师姓名
 select course.cname as '课程名称',teacher.tname as '老师姓名' from course left join teacher on course.teacher_id=teacher.tid;
 -- 2、查询学生表中男女生各有多少人
@@ -69,5 +69,6 @@ select * from score as s1 where (select count(1) from score s2 where s1.number=s
 -- 22、查询没学过“李平”老师课程的学生姓名以及选修的课程名称；
 select student.sname,course.cname from score,student,course where student.sid=score.student_id and course.cid=score.course_id and   student_id in (select sid from student where student.sid not in (select student_id from score where score.course_id  in (select cid from course where course.teacher_id  in  (select teacher.tid from teacher where teacher.tname='李平老师')) group by student_id));
 -- 23、查询所有选修了学号为1的同学选修过的一门或者多门课程的同学学号和姓名；
-
+select student_id,student.sname from score inner join student on score.student_id=student.sid where course_id in (select distinct course_id from score where student_id=1) and student_id!=1 group by student_id;
 -- 24、任课最多的老师中学生单科成绩最高的学生姓名
+select sname,chengji.course_id,max(chengji.number) from student inner join (select student_id,course_id,number from score s1 where (select count(1) from (select cid from course inner join (select teacher_id,count(teacher_id) as cs from course group by teacher_id order by cs desc limit 1) as tea on course.teacher_id=tea.teacher_id) s2 where s1.course_id=s2.cid )=1 order by s1.course_id,s1.number desc ) as chengji on student.sid=chengji.student_id group by course_id;

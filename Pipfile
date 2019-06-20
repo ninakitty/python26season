@@ -1,28 +1,11 @@
 [[source]]
 name = "pypi"
-#url = "https://pypi.org/simple"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
 
 [packages]
-beautifulsoup = "*"
-bs4 = "*"
-requests = "*"
-lxml = "*"
-pywin32 = "*"
-pyinstaller = "*"
-easygui = "*"
-greenlet = "*"
-gevent = "==1.5a1"
-itchat = "*"
-echarts-python = "*"
-pil = "*"
-jieba = "*"
-wordcloud = "*"
-matplotlib = "*"
-pillow = "*"
 pymysql = "*"
 
 [requires]
