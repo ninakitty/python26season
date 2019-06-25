@@ -121,7 +121,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 -- 查询
 -- 练习题：
 -- 查询所有同学的学号、姓名、选课数、总成绩；
-select student.sid as '学号',student.sname as '姓名',count(score.course_id) as '选课数',sum(score.num) as '总成绩' from student inner join score on student.sid=score.student_id group by student.sname order by student.sid asc;
+select student.sid as '学号',student.sname as '姓名',count(score.course_id) as '选课数',sum(score.num) as '总成绩' from student left join score on student.sid=score.student_id group by student.sname order by student.sid asc;
 -- 查询姓“李”的老师的个数；
 select count(teacher.tid)as '姓李老师个数' from teacher where teacher.tname like '李%';
 -- 查询平均成绩大于60分的同学的学号和平均成绩；

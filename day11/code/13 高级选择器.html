@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    /*后代选择器*/
+    #box p{
+      color: red;
+    }
+    #box>p{
+      color: yellow;
+    }
+    em{
+      font-style: normal;
+      font-size: 30px;
+    }
+    /*.active{*/
+      /*background-color: orange;*/
+    /*}*/
+    em.active{
+      color: red;
+    }
+    .active{
+      color: darkorchid;
+    }
+
+  </style>
+</head>
+<body>
+  <div id="box">
+    <p>alex</p>
+    <p>wusir</p>
+    <ul>
+      <li>
+        <p>alex2</p>
+      </li>
+    </ul>
+  </div>
+
+  <em class="active">mjj</em>
+
+
+</body>
+</html>

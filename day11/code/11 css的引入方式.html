@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+  <!--行内优先级最高 > 内嵌式-->
+  <style>
+
+    /*内嵌式*/
+    #box{
+      color: red;
+      font-size: 24px;
+    }
+  </style>
+  <!--外接式-->
+  <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<!--行内样式-->
+  <div id="box" style="font-size: 20px" onclick="alert(1)">
+    alex
+  </div>
+
+</body>
+</html>

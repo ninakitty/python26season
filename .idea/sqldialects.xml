@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/day10/homework/homework.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/day10/homework/超老师网页的练习exercise.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/day10/homework/路飞练习-database.sql" dialect="MySQL" />
   </component>
 </project>

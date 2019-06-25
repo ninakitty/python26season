@@ -1,0 +1,224 @@
+马
+小马哥
+mjj
+
+第一周: 
+- 数据库:索引
+- HTML+CSS
+第二周:
+- CSS+Javascript
+第三周:
+- jQuery+bootstrap
+
+离不开socket
+Client  Server   数据库
+			 pymysql
+BS
+
+今天内容
+	HTML常用标签
+	声明HTML5的文档
+<!DOCTYPE HTML>
+
+html标签 整个文档根标签	
+	语义化
+	HTML体现了网页的结构
+	- head标签
+		标签是不会展示到网页上
+		meta标签 网页的元信息标签,主要针对网页的配置
+		title 网页的标签
+		style 样式标签
+		link  链接css文件
+			href属性
+		script 脚本标签
+			src 链接脚本文件
+	- body标签
+	1.标题标签
+		h1~h6
+	2.超链接标签
+		a标签:anchor 锚点
+			href:跳转的地址
+			target: _self 在当前页面中打开地址
+					_blank 在新的空白页面打开地址
+			title:鼠标悬浮时显示的标题
+	3.img标签 图片标签
+		src: 链接的图片地址
+		alt: 图片加载失败的时候显示的提示文本,为了用户体验
+	4.列表标签(ul ol dl)
+		ul和ol的子标签一定是li
+		dl中有dt和dd
+	5.表格table
+		tr 行
+			单元格定制的内容
+			td
+	6.表单form
+		action: 提交的服务器地址
+		method: 请求方式
+		input
+			type
+				text 单行文本输入框
+				password 密码输入框
+				radio 单选框
+					产生互斥效果,加同样的name属性值
+					默认选中: checked
+				checkbox 多选框
+					默认选中:checked
+				file 上传文件
+				datetime-local 时间
+			name
+				服务器端的key
+				
+			value
+				服务器端的value
+			id
+				通常跟label中的for属性值一样
+			placeholder
+				代替的文本
+		select 有name
+			option 有value
+			如果想实现多选,给select标签添加multiple,摁着ctrl键进行多选
+		textarea
+			多行文本输入框
+			name
+			value
+			id
+			cols
+				列数
+			rows
+				行数			
+	7.button 普通按钮
+	
+	8.div + span
+	
+	
+	ajax技术
+	XMLHttpRequest
+		
+	标签的嵌套规范:
+		块级标签可以包括块和行内
+		但是行内尽量不要包括块
+		
+	块级标签:
+		1.独占一行
+			h1~h6
+			p: 上下有间距
+			ul
+			ol
+			dl
+			li
+			dt
+			dd
+			table
+			tr
+			form
+			div
+	行内标签:
+		1.在一行内显示
+		a
+		img
+		&nbsp;&copy;
+		td
+		em和i都是斜体标签
+		strong 对文本加粗
+		input
+		label
+		
+	二.CSS
+		层叠样式表
+		作用:对网页美化
+		1.css的引入方式
+			行内样式
+				<div id="box" style="font-size: 20px" onclick="alert(1)">
+					alex
+				</div>
+			内嵌样式
+				<style></style>
+			外接样式
+			    使用最多,通常都是在项目中
+				link
+		2.css的选择器
+		 选择器的作用:选中标签
+			基础选择器
+				id选择器
+				  #box{}
+				类选择器
+				  .box{}
+				标签选择器
+				   div{}
+			高级选择器
+				后代选择器
+				 #box p{}
+				 子子孙孙
+				子代选择器
+				  #box>p{}
+				  亲儿子
+				组合选择器
+				ul{
+				padding: 0;
+				}
+				ol{
+				padding: 0;
+				}
+				
+				ul,ol{ 
+					padding: 0;
+				}
+				交集选择器
+		    属性选择器
+					
+		3.优先级
+			1.先看是否选中了标签
+				如果选中了
+				权重如何看?
+					数选择器的数量: id 类 标签
+					谁的数值大谁的优先级最高
+			2.如果没有选中,继承来的属性,继承来的属性的权重接近0,跟选中的标签的优先级没有可比性
+			3.同是继承来的属性
+				就近原则,距离描述的标签越近,优先级越高
+				如果描述的一样近,数选择器的权重
+				
+		4.继承性:
+			有个别的属性被继承下来
+				color
+				font-xxx
+				text-align
+				line-height
+		
+		5.行高
+			一行的高度
+			
+			当行高等于盒子的高度,实现垂直居中
+			实现水平居中:text-align:center
+			
+		6.常用格式化属性介绍
+			- 字体属性
+				font-size 字体大小
+				font-style 字体样式
+					normal
+					italic
+				font-family 设置网站字体
+					备选字体  font-family: '宋体','微软雅黑';
+				color 字体颜色
+				font-weight 字体粗细
+					normal 普通字体
+					bold 加粗字体
+					100~900取值
+			- 文本属性
+				text-decoration 文本修饰
+					none 无修饰
+					undefined  下划线
+					overline 上划线
+					line-through 删除线
+				line-height
+					行高
+				text-align:文本对齐方式
+					left 左对齐
+					center 中心对齐
+					right 右对齐
+		
+		7.盒子模型
+			width:内容的宽度
+			height:内容的高度
+			padding: 内边距
+			border:边框
+			margin: 外边距
